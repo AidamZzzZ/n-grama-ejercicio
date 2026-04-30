@@ -1,8 +1,7 @@
 def constructor_ngrama(n, contenido):
     import re
     texto_limpio = re.sub(r"[\n-]+", " ", contenido)
-    puntuacion = r'[.,¿?¡!\n\r\-]+'
-    
+    puntuacion = r'[.,¿?¡!—\n\r\-]+'
     texto_limpio = re.sub(puntuacion, "", texto_limpio).split()
 
     n_grama = []
@@ -41,3 +40,10 @@ def guardar_datos_json(data):
     
     with open("data.json", "w", encoding="utf-8") as arch:
         json.dump(data, arch, indent=4, ensure_ascii=False)
+
+def ajuste_pesos(modelo):
+    for dato in modelo:
+        suma_valores = sum(modelo[dato].values()) 
+        for dato_secuencia in modelo[dato]:
+            modelo[dato][dato_secuencia] /= suma_valores
+    return modelo

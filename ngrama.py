@@ -1,4 +1,4 @@
-from tools.funciones import constructor_ngrama, guardar_datos_json
+from tools.funciones import constructor_ngrama, guardar_datos_json, ajuste_pesos
 
 modelo = {}
 n = 2
@@ -26,6 +26,6 @@ for i in range(len(n_grama) - 1):
     else:
         modelo[contexto][objetivo] += 1
 
-for dato in modelo:
-    print(modelo[dato])
-guardar_datos_json(modelo)
+model_tuning = ajuste_pesos(modelo)
+
+guardar_datos_json(model_tuning)

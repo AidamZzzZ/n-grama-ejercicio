@@ -1,1974 +1,1929 @@
 {
     "es": {
-        "una": 2,
-        "—insistió": 1,
-        "muy": 2,
-        "que": 1,
-        "usted": 1,
-        "un": 1,
-        "despreciable": 1
+        "una": 0.2222222222222222,
+        "insistió": 0.1111111111111111,
+        "muy": 0.2222222222222222,
+        "que": 0.1111111111111111,
+        "usted": 0.1111111111111111,
+        "un": 0.1111111111111111,
+        "despreciable": 0.1111111111111111
     },
     "una": {
-        "verdad": 1,
-        "gran": 1,
-        "esposa": 1,
-        "damita": 1,
-        "media": 1,
-        "mujer": 2,
-        "de": 1,
-        "mala": 1
+        "verdad": 0.1111111111111111,
+        "gran": 0.1111111111111111,
+        "esposa": 0.1111111111111111,
+        "damita": 0.1111111111111111,
+        "media": 0.1111111111111111,
+        "mujer": 0.2222222222222222,
+        "de": 0.1111111111111111,
+        "mala": 0.1111111111111111
     },
     "verdad": {
-        "mundialmente": 1,
-        "está": 1,
-        "el": 1
+        "mundialmente": 0.3333333333333333,
+        "está": 0.3333333333333333,
+        "el": 0.3333333333333333
     },
     "mundialmente": {
-        "reconocida": 1
+        "reconocida": 1.0
     },
     "reconocida": {
-        "que": 1
+        "que": 1.0
     },
     "que": {
-        "un": 1,
-        "lo": 2,
-        "algunas": 1,
-        "por": 1,
-        "no": 5,
-        "quieres": 1,
-        "la": 2,
-        "netherfield": 1,
-        "vino": 1,
-        "se": 7,
-        "inmediatamente": 1,
-        "antes": 1,
-        "algunos": 1,
-        "viene": 1,
-        "imitándolo": 1,
-        "ocurría": 1,
-        "sí": 1,
-        "me": 2,
-        "las": 2,
-        "era": 1,
-        "abarcan": 1,
-        "hacer": 1,
-        "he": 1,
-        "a": 2,
-        "sean": 1,
-        "su": 2,
-        "añadir": 1,
-        "conozca": 2,
-        "duda": 1,
-        "esto": 1,
-        "conocían": 1,
-        "respondían": 1,
-        "tratan": 1,
-        "tenga": 1,
-        "ver": 1,
-        "sus": 1,
-        "trajese": 1,
-        "decía": 1,
-        "dar": 1
+        "un": 0.017857142857142856,
+        "lo": 0.03571428571428571,
+        "algunas": 0.017857142857142856,
+        "por": 0.017857142857142856,
+        "no": 0.08928571428571429,
+        "quieres": 0.017857142857142856,
+        "la": 0.03571428571428571,
+        "netherfield": 0.017857142857142856,
+        "vino": 0.017857142857142856,
+        "se": 0.125,
+        "inmediatamente": 0.017857142857142856,
+        "antes": 0.017857142857142856,
+        "algunos": 0.017857142857142856,
+        "viene": 0.017857142857142856,
+        "imitándolo": 0.017857142857142856,
+        "ocurría": 0.017857142857142856,
+        "sí": 0.017857142857142856,
+        "me": 0.03571428571428571,
+        "las": 0.03571428571428571,
+        "era": 0.017857142857142856,
+        "abarcan": 0.017857142857142856,
+        "hacer": 0.017857142857142856,
+        "he": 0.017857142857142856,
+        "a": 0.03571428571428571,
+        "sean": 0.017857142857142856,
+        "su": 0.03571428571428571,
+        "añadir": 0.017857142857142856,
+        "conozca": 0.03571428571428571,
+        "duda": 0.017857142857142856,
+        "esto": 0.017857142857142856,
+        "conocían": 0.017857142857142856,
+        "respondían": 0.017857142857142856,
+        "tratan": 0.017857142857142856,
+        "tenga": 0.017857142857142856,
+        "ver": 0.017857142857142856,
+        "sus": 0.017857142857142856,
+        "trajese": 0.017857142857142856,
+        "decía": 0.017857142857142856,
+        "dar": 0.017857142857142856
     },
     "un": {
-        "hombre": 3,
-        "vecindario": 1,
-        "día": 1,
-        "momento": 1,
-        "joven": 1,
-        "landó": 1,
-        "acuerdo": 1,
-        "modo": 1,
-        "conocimiento": 1,
-        "algo": 1,
-        "truco": 1
+        "hombre": 0.23076923076923078,
+        "vecindario": 0.07692307692307693,
+        "día": 0.07692307692307693,
+        "momento": 0.07692307692307693,
+        "joven": 0.07692307692307693,
+        "landó": 0.07692307692307693,
+        "acuerdo": 0.07692307692307693,
+        "modo": 0.07692307692307693,
+        "conocimiento": 0.07692307692307693,
+        "algo": 0.07692307692307693,
+        "truco": 0.07692307692307693
     },
     "hombre": {
-        "soltero": 2,
-        "de": 1
+        "soltero": 0.6666666666666666,
+        "de": 0.3333333333333333
     },
     "soltero": {
-        "poseedor": 1,
-        "—oh": 1,
-        "querido": 1,
-        "y": 1
+        "poseedor": 0.25,
+        "oh": 0.25,
+        "querido": 0.25,
+        "y": 0.25
     },
     "poseedor": {
-        "de": 1
+        "de": 1.0
     },
     "de": {
-        "una": 2,
-        "los": 2,
-        "un": 3,
-        "tales": 1,
-        "algunas": 1,
-        "las": 2,
-        "su": 4,
-        "la": 5,
-        "sus": 2,
-        "contestar": 1,
-        "inglaterra;": 1,
-        "cuatro": 1,
-        "san": 1,
-        "gran": 1,
-        "posibilidades": 1,
-        "juego": 1,
-        "volver": 1,
-        "malla": 2,
-        "que": 4,
-        "lo": 2,
-        "verdad": 1,
-        "estar": 1,
-        "acuerdo": 1,
-        "todas": 1,
-        "conocer": 1,
-        "música": 1,
-        "todo": 1,
-        "andar": 1,
-        "expresarse;": 1,
-        "abundantes": 1,
-        "esas": 1,
-        "hacerse": 1,
-        "nuevo": 1,
-        "esto": 1,
-        "manera": 1,
-        "llaves": 1
+        "una": 0.037037037037037035,
+        "los": 0.037037037037037035,
+        "un": 0.05555555555555555,
+        "tales": 0.018518518518518517,
+        "algunas": 0.018518518518518517,
+        "las": 0.037037037037037035,
+        "su": 0.07407407407407407,
+        "la": 0.09259259259259259,
+        "sus": 0.037037037037037035,
+        "contestar": 0.018518518518518517,
+        "inglaterra;": 0.018518518518518517,
+        "cuatro": 0.018518518518518517,
+        "san": 0.018518518518518517,
+        "gran": 0.018518518518518517,
+        "posibilidades": 0.018518518518518517,
+        "juego": 0.018518518518518517,
+        "volver": 0.018518518518518517,
+        "malla": 0.037037037037037035,
+        "que": 0.07407407407407407,
+        "lo": 0.037037037037037035,
+        "verdad": 0.018518518518518517,
+        "estar": 0.018518518518518517,
+        "acuerdo": 0.018518518518518517,
+        "todas": 0.018518518518518517,
+        "conocer": 0.018518518518518517,
+        "música": 0.018518518518518517,
+        "todo": 0.018518518518518517,
+        "andar": 0.018518518518518517,
+        "expresarse;": 0.018518518518518517,
+        "abundantes": 0.018518518518518517,
+        "esas": 0.018518518518518517,
+        "hacerse": 0.018518518518518517,
+        "nuevo": 0.018518518518518517,
+        "esto": 0.018518518518518517,
+        "manera": 0.018518518518518517,
+        "llaves": 0.018518518518518517
     },
     "gran": {
-        "fortuna": 1,
-        "fortuna;": 1
+        "fortuna": 0.5,
+        "fortuna;": 0.5
     },
     "fortuna": {
-        "necesita": 1
+        "necesita": 1.0
     },
     "necesita": {
-        "una": 1
+        "una": 1.0
     },
     "esposa": {
-        "sin": 1,
-        "eres": 1
+        "sin": 0.3333333333333333,
+        "sabías": 0.3333333333333333,
+        "eres": 0.3333333333333333
     },
     "sin": {
-        "embargo": 2,
-        "que": 1
+        "embargo": 0.6666666666666666,
+        "que": 0.3333333333333333
     },
     "embargo": {
-        "poco": 1,
-        "más": 1
+        "poco": 0.5,
+        "más": 0.5
     },
     "poco": {
-        "se": 1
+        "se": 1.0
     },
     "se": {
-        "sabe": 1,
-        "ha": 1,
-        "impacientó": 1,
-        "quedó": 1,
-        "llama": 1,
-        "acercó": 1,
-        "colocó": 1,
-        "me": 1,
-        "aplica": 1,
-        "refiere": 1,
-        "encuentra": 1,
-        "hubo": 1,
-        "rebajan": 1,
-        "reunió": 1,
-        "oponía": 1,
-        "hiciese": 1,
-        "acordó": 1,
-        "encontraba": 1,
-        "consolaron": 1,
-        "prestase": 1
+        "sabe": 0.05,
+        "ha": 0.05,
+        "impacientó": 0.05,
+        "quedó": 0.05,
+        "llama": 0.05,
+        "acercó": 0.05,
+        "colocó": 0.05,
+        "me": 0.05,
+        "aplica": 0.05,
+        "refiere": 0.05,
+        "encuentra": 0.05,
+        "hubo": 0.05,
+        "rebajan": 0.05,
+        "reunió": 0.05,
+        "oponía": 0.05,
+        "hiciese": 0.05,
+        "acordó": 0.05,
+        "encontraba": 0.05,
+        "consolaron": 0.05,
+        "prestase": 0.05
     },
     "sabe": {
-        "de": 1
+        "de": 1.0
     },
     "los": {
-        "sentimientos": 1,
-        "hombres": 1,
-        "más": 1
+        "sentimientos": 0.3333333333333333,
+        "hombres": 0.3333333333333333,
+        "más": 0.3333333333333333
     },
     "sentimientos": {
-        "u": 1
+        "u": 1.0
     },
     "u": {
-        "opiniones": 1
+        "opiniones": 1.0
     },
     "opiniones": {
-        "de": 1
+        "de": 1.0
     },
     "tales": {
-        "condiciones": 1
+        "condiciones": 1.0
     },
     "condiciones": {
-        "cuando": 1
+        "cuando": 1.0
     },
     "cuando": {
-        "entra": 1,
-        "el": 1,
-        "la": 1
+        "entra": 0.3333333333333333,
+        "el": 0.3333333333333333,
+        "la": 0.3333333333333333
     },
     "entra": {
-        "a": 1
+        "a": 1.0
     },
     "a": {
-        "formar": 1,
-        "un": 1,
-        "ocuparlo;": 1,
-        "finales": 1,
-        "su": 4,
-        "la": 4,
-        "verla": 1,
-        "nadie": 1,
-        "ser": 1,
-        "ninguna": 1,
-        "mujeres": 1,
-        "tu": 1,
-        "una": 1,
-        "medias": 1,
-        "ello": 1,
-        "seis": 1,
-        "alguna": 1,
-        "dicha": 1,
-        "quien": 1,
-        "veces": 1,
-        "emplear": 1,
-        "los": 1,
-        "alguien": 2,
-        "buscar": 2,
-        "uno": 1,
-        "que": 1
+        "formar": 0.02857142857142857,
+        "un": 0.02857142857142857,
+        "ocuparlo;": 0.02857142857142857,
+        "finales": 0.02857142857142857,
+        "mí": 0.02857142857142857,
+        "su": 0.11428571428571428,
+        "la": 0.11428571428571428,
+        "verla": 0.02857142857142857,
+        "nadie": 0.02857142857142857,
+        "ser": 0.02857142857142857,
+        "ninguna": 0.02857142857142857,
+        "mujeres": 0.02857142857142857,
+        "tu": 0.02857142857142857,
+        "una": 0.02857142857142857,
+        "medias": 0.02857142857142857,
+        "ello": 0.02857142857142857,
+        "seis": 0.02857142857142857,
+        "alguna": 0.02857142857142857,
+        "dicha": 0.02857142857142857,
+        "quien": 0.02857142857142857,
+        "veces": 0.02857142857142857,
+        "emplear": 0.02857142857142857,
+        "los": 0.02857142857142857,
+        "alguien": 0.05714285714285714,
+        "buscar": 0.05714285714285714,
+        "uno": 0.02857142857142857,
+        "que": 0.02857142857142857
     },
     "formar": {
-        "parte": 1
+        "parte": 1.0
     },
     "parte": {
-        "de": 1
+        "de": 1.0
     },
     "vecindario": {
-        "esta": 1
+        "esta": 1.0
     },
     "esta": {
-        "verdad": 1,
-        "sugerencia": 1,
-        "observación—": 1
+        "verdad": 0.3333333333333333,
+        "sugerencia": 0.3333333333333333,
+        "observación": 0.3333333333333333
     },
     "está": {
-        "tan": 1,
-        "casado": 1
+        "tan": 0.5,
+        "casado": 0.5
     },
     "tan": {
-        "arraigada": 1,
-        "encantado": 1,
-        "alta": 1,
-        "perfectas": 1,
-        "severa": 1
+        "arraigada": 0.2,
+        "encantado": 0.2,
+        "alta": 0.2,
+        "perfectas": 0.2,
+        "severa": 0.2
     },
     "arraigada": {
-        "en": 1
+        "en": 1.0
     },
     "en": {
-        "las": 1,
-        "oírlo": 1,
-        "un": 1,
-        "la": 1,
-        "lo": 2,
-        "abandonarlo": 1,
-        "general": 1,
-        "mucho": 1,
-        "su": 2,
-        "el": 3,
-        "abandonar": 1,
-        "mi": 1,
-        "todas": 1
+        "las": 0.058823529411764705,
+        "oírlo": 0.058823529411764705,
+        "un": 0.058823529411764705,
+        "la": 0.058823529411764705,
+        "lo": 0.11764705882352941,
+        "abandonarlo": 0.058823529411764705,
+        "general": 0.058823529411764705,
+        "mucho": 0.058823529411764705,
+        "su": 0.11764705882352941,
+        "el": 0.17647058823529413,
+        "abandonar": 0.058823529411764705,
+        "mi": 0.058823529411764705,
+        "todas": 0.058823529411764705
     },
     "las": {
-        "mentes": 1,
-        "familias": 1,
-        "jóvenes": 2,
-        "damas": 2,
-        "que": 1,
-        "llamó": 1,
-        "artes": 1
+        "mentes": 0.1111111111111111,
+        "familias": 0.1111111111111111,
+        "jóvenes": 0.2222222222222222,
+        "damas": 0.2222222222222222,
+        "que": 0.1111111111111111,
+        "llamó": 0.1111111111111111,
+        "artes": 0.1111111111111111
     },
     "mentes": {
-        "de": 1
+        "de": 1.0
     },
     "algunas": {
-        "de": 1,
-        "le": 1
+        "de": 0.5,
+        "le": 0.5
     },
     "familias": {
-        "que": 1
+        "que": 1.0
     },
     "lo": {
-        "rodean": 1,
-        "ha": 2,
-        "creo": 1,
-        "haría": 1,
-        "vendiera": 1,
-        "que": 7,
-        "son": 1,
-        "contrario": 1,
-        "bastante": 1
+        "rodean": 0.0625,
+        "ha": 0.125,
+        "creo": 0.0625,
+        "haría": 0.0625,
+        "vendiera": 0.0625,
+        "que": 0.4375,
+        "son": 0.0625,
+        "contrario": 0.0625,
+        "bastante": 0.0625
     },
     "rodean": {
-        "que": 1
+        "que": 1.0
     },
     "le": {
-        "consideran": 1,
-        "fue": 1
+        "consideran": 0.3333333333333333,
+        "dijo": 0.3333333333333333,
+        "fue": 0.3333333333333333
     },
     "consideran": {
-        "de": 1
+        "de": 1.0
     },
     "su": {
-        "legítima": 1,
-        "esposa—": 1,
-        "esposa": 1,
-        "libro;": 1,
-        "hermana": 3,
-        "edad": 1,
-        "concepto": 1,
-        "fiel": 1,
-        "aire": 1,
-        "voz": 1,
-        "trato": 1,
-        "inteligencia": 1,
-        "propio": 1,
-        "implícita": 1,
-        "preocupación": 1,
-        "ama": 1
+        "legítima": 0.05555555555555555,
+        "esposa": 0.1111111111111111,
+        "libro;": 0.05555555555555555,
+        "hermana": 0.16666666666666666,
+        "edad": 0.05555555555555555,
+        "concepto": 0.05555555555555555,
+        "fiel": 0.05555555555555555,
+        "aire": 0.05555555555555555,
+        "voz": 0.05555555555555555,
+        "trato": 0.05555555555555555,
+        "inteligencia": 0.05555555555555555,
+        "propio": 0.05555555555555555,
+        "implícita": 0.05555555555555555,
+        "preocupación": 0.05555555555555555,
+        "ama": 0.05555555555555555
     },
     "legítima": {
-        "propiedad": 1
+        "propiedad": 1.0
     },
     "propiedad": {
-        "y": 1
+        "y": 1.0
     },
     "y": {
-        "otras": 1,
-        "me": 1,
-        "yo": 1,
-        "que": 3,
-        "de": 1,
-        "compraría": 1,
-        "se": 1,
-        "su": 1,
-        "qué": 1,
-        "lleguen": 1,
-        "hacen": 1,
-        "nunca": 1,
-        "lenguas": 1,
-        "además": 1,
-        "manera": 1,
-        "modo": 1,
-        "a": 2,
-        "tanta": 1,
-        "la": 1,
-        "sus": 1
+        "otras": 0.043478260869565216,
+        "me": 0.043478260869565216,
+        "yo": 0.043478260869565216,
+        "que": 0.13043478260869565,
+        "de": 0.043478260869565216,
+        "compraría": 0.043478260869565216,
+        "se": 0.043478260869565216,
+        "su": 0.043478260869565216,
+        "qué": 0.043478260869565216,
+        "lleguen": 0.043478260869565216,
+        "hacen": 0.043478260869565216,
+        "nunca": 0.043478260869565216,
+        "lenguas": 0.043478260869565216,
+        "además": 0.043478260869565216,
+        "manera": 0.043478260869565216,
+        "modo": 0.043478260869565216,
+        "a": 0.08695652173913043,
+        "tanta": 0.043478260869565216,
+        "la": 0.043478260869565216,
+        "sus": 0.043478260869565216
     },
     "otras": {
-        "de": 1
+        "de": 1.0
     },
     "la": {
-        "de": 1,
-        "señora": 3,
-        "que": 1,
-        "casa": 1,
-        "semana": 1,
-        "menor": 1,
-        "mesa": 1,
-        "partida": 1,
-        "señorita": 7,
-        "primavera": 1,
-        "estatura": 1,
-        "mujer": 1,
-        "injusticia": 1,
-        "conversación": 1,
-        "puerta": 1,
-        "astucia": 1,
-        "respuesta": 1,
-        "asistencia": 1,
-        "capital": 1,
-        "mañana": 1,
-        "enferma": 1
+        "de": 0.034482758620689655,
+        "señora": 0.10344827586206896,
+        "que": 0.034482758620689655,
+        "casa": 0.034482758620689655,
+        "semana": 0.034482758620689655,
+        "menor": 0.034482758620689655,
+        "mesa": 0.034482758620689655,
+        "partida": 0.034482758620689655,
+        "señorita": 0.2413793103448276,
+        "primavera": 0.034482758620689655,
+        "estatura": 0.034482758620689655,
+        "mujer": 0.034482758620689655,
+        "injusticia": 0.034482758620689655,
+        "conversación": 0.034482758620689655,
+        "puerta": 0.034482758620689655,
+        "astucia": 0.034482758620689655,
+        "respuesta": 0.034482758620689655,
+        "asistencia": 0.034482758620689655,
+        "capital": 0.034482758620689655,
+        "mañana": 0.034482758620689655,
+        "enferma": 0.034482758620689655
     },
     "sus": {
-        "hijas": 1,
-        "criados": 1,
-        "hermanas": 2
+        "hijas": 0.25,
+        "criados": 0.25,
+        "hermanas": 0.5
     },
     "hijas": {
-        "mi": 1,
-        "—a": 1
+        "mi": 0.5,
+        "a": 0.5
     },
     "mi": {
-        "querido": 2,
-        "opinión": 1
+        "querido": 0.6666666666666666,
+        "opinión": 0.3333333333333333
     },
     "querido": {
-        "señor": 1,
-        "que": 1,
-        "por": 1,
-        "charles": 1
+        "señor": 0.25,
+        "que": 0.25,
+        "por": 0.25,
+        "charles": 0.25
     },
     "señor": {
-        "bennet": 3,
-        "morris;": 1,
-        "hurst": 1
+        "bennet": 0.6,
+        "morris;": 0.2,
+        "hurst": 0.2
     },
     "bennet": {
-        "—le": 1,
-        "respondió": 1,
-        "no": 1,
-        "o": 1
-    },
-    "—le": {
-        "dijo": 1
+        "le": 0.25,
+        "respondió": 0.25,
+        "no": 0.25,
+        "o": 0.25
     },
     "dijo": {
-        "un": 1
+        "un": 0.2,
+        "bingley": 0.2,
+        "darcy": 0.2,
+        "la": 0.4
     },
     "día": {
-        "su": 1
-    },
-    "esposa—": {
-        "sabías": 1
+        "su": 1.0
     },
     "sabías": {
-        "que": 1
+        "que": 1.0
     },
     "por": {
-        "fin": 1,
-        "un": 1,
-        "supuesto": 1,
-        "primera": 1,
-        "medio": 1
+        "fin": 0.2,
+        "un": 0.2,
+        "supuesto": 0.2,
+        "primera": 0.2,
+        "medio": 0.2
     },
     "fin": {
-        "se": 1
+        "se": 1.0
     },
     "ha": {
-        "alquilado": 2,
-        "estado": 1,
-        "contado": 1,
-        "sido": 1
+        "alquilado": 0.3333333333333333,
+        "estado": 0.16666666666666666,
+        "contado": 0.16666666666666666,
+        "sido": 0.16666666666666666,
+        "crecido": 0.16666666666666666
     },
     "alquilado": {
-        "netherfield": 1,
-        "se": 1,
-        "por": 1
+        "netherfield": 0.3333333333333333,
+        "se": 0.3333333333333333,
+        "por": 0.3333333333333333
     },
     "netherfield": {
-        "park": 1,
-        "ha": 1
+        "park": 0.5,
+        "ha": 0.5
     },
     "park": {
-        "el": 1
+        "el": 1.0
     },
     "el": {
-        "señor": 4,
-        "lunes": 1,
-        "lugar;": 1,
-        "mismo": 1,
-        "piano": 1,
-        "adjetivo": 1,
-        "tono": 1,
-        "calificativo": 1,
-        "desarrollo": 1,
-        "salón": 1,
-        "tema": 1,
-        "campo": 1,
-        "hermano": 1
+        "señor": 0.25,
+        "lunes": 0.0625,
+        "lugar;": 0.0625,
+        "mismo": 0.0625,
+        "piano": 0.0625,
+        "adjetivo": 0.0625,
+        "tono": 0.0625,
+        "calificativo": 0.0625,
+        "desarrollo": 0.0625,
+        "salón": 0.0625,
+        "tema": 0.0625,
+        "campo": 0.0625,
+        "hermano": 0.0625
     },
     "respondió": {
-        "que": 1
+        "que": 0.5,
+        "darcy": 0.5
     },
     "no": {
-        "pues": 1,
-        "hizo": 1,
-        "quieres": 1,
-        "tengo": 1,
-        "me": 1,
-        "tardó": 2,
-        "conozco": 1,
-        "sepa": 1,
-        "son": 1,
-        "puedo": 1,
-        "sobrepasa": 1,
-        "merecería": 1,
-        "prestasen": 1,
-        "diré": 1,
-        "dé": 1,
-        "quedó": 1,
-        "podía": 2,
-        "servía": 1,
-        "quiso": 1,
-        "se": 2
+        "pues": 0.041666666666666664,
+        "hizo": 0.041666666666666664,
+        "quieres": 0.041666666666666664,
+        "tengo": 0.041666666666666664,
+        "me": 0.08333333333333333,
+        "tardó": 0.08333333333333333,
+        "conozco": 0.041666666666666664,
+        "sepa": 0.041666666666666664,
+        "son": 0.041666666666666664,
+        "puedo": 0.041666666666666664,
+        "sobrepasa": 0.041666666666666664,
+        "merecería": 0.041666666666666664,
+        "prestasen": 0.041666666666666664,
+        "diré": 0.041666666666666664,
+        "dé": 0.041666666666666664,
+        "quedó": 0.041666666666666664,
+        "podía": 0.08333333333333333,
+        "servía": 0.041666666666666664,
+        "quiso": 0.041666666666666664,
+        "se": 0.08333333333333333
     },
     "pues": {
-        "así": 1,
-        "sabrás": 1,
-        "de": 1
+        "así": 0.3333333333333333,
+        "sabrás": 0.3333333333333333,
+        "de": 0.3333333333333333
     },
     "así": {
-        "es": 1,
-        "nunca": 1
+        "es": 0.5,
+        "nunca": 0.5
     },
-    "—insistió": {
-        "ella—;": 1
+    "insistió": {
+        "ella;": 1.0
     },
-    "ella—;": {
-        "la": 1
+    "ella;": {
+        "la": 1.0
     },
     "señora": {
-        "long": 2,
-        "hurst": 1
+        "long": 0.6666666666666666,
+        "hurst": 0.3333333333333333
     },
     "long": {
-        "ha": 1,
-        "dice": 1
+        "ha": 0.5,
+        "dice": 0.5
     },
     "estado": {
-        "aquí": 1
+        "aquí": 1.0
     },
     "aquí": {
-        "hace": 1
+        "hace": 1.0
     },
     "hace": {
-        "un": 1
+        "un": 1.0
     },
     "momento": {
-        "y": 1
+        "y": 1.0
     },
     "me": {
-        "lo": 1,
-        "divierte": 1,
-        "guste": 1,
-        "informara": 1,
-        "sorprende": 1,
-        "extraña": 1
+        "lo": 0.14285714285714285,
+        "divierte": 0.14285714285714285,
+        "guste": 0.14285714285714285,
+        "asombra": 0.14285714285714285,
+        "informara": 0.14285714285714285,
+        "sorprende": 0.14285714285714285,
+        "extraña": 0.14285714285714285
     },
     "contado": {
-        "todo": 1
+        "todo": 1.0
     },
     "todo": {
-        "el": 1,
-        "esto": 2,
-        "lo": 1
+        "el": 0.25,
+        "esto": 0.5,
+        "lo": 0.25
     },
     "hizo": {
-        "ademán": 1
+        "ademán": 1.0
     },
     "ademán": {
-        "de": 1
+        "de": 1.0
     },
     "contestar": {
-        "no": 1
+        "no": 1.0
     },
     "quieres": {
-        "saber": 1,
-        "contármelo": 1
+        "saber": 0.5,
+        "contármelo": 0.5
     },
     "saber": {
-        "quién": 1
+        "quién": 1.0
     },
     "quién": {
-        "lo": 1
+        "lo": 1.0
     },
     "impacientó": {
-        "su": 1
+        "su": 1.0
     },
     "eres": {
-        "tú": 1
+        "tú": 1.0
     },
     "tú": {
-        "la": 1
+        "la": 1.0
     },
     "contármelo": {
-        "y": 1
+        "y": 1.0
     },
     "yo": {
-        "no": 1,
-        "—creo": 1,
-        "desde": 1,
-        "nunca": 1
+        "no": 0.25,
+        "creo": 0.25,
+        "desde": 0.25,
+        "nunca": 0.25
     },
     "tengo": {
-        "inconveniente": 1,
-        "de": 1
+        "inconveniente": 0.5,
+        "de": 0.5
     },
     "inconveniente": {
-        "en": 1
+        "en": 1.0
     },
     "oírlo": {
-        "esta": 1
+        "esta": 1.0
     },
     "sugerencia": {
-        "le": 1
+        "le": 1.0
     },
     "fue": {
-        "suficiente": 1
+        "suficiente": 1.0
     },
     "suficiente": {
-        "pues": 1
+        "pues": 1.0
     },
     "sabrás": {
-        "querido": 1
+        "querido": 1.0
     },
     "dice": {
-        "que": 1
+        "que": 1.0
     },
     "sido": {
-        "alquilado": 1
+        "alquilado": 1.0
     },
     "joven": {
-        "muy": 1
+        "muy": 1.0
     },
     "muy": {
-        "rico": 1,
-        "exigente": 2,
-        "afligidas": 1
+        "rico": 0.25,
+        "exigente": 0.5,
+        "afligidas": 0.25
     },
     "rico": {
-        "del": 1
+        "del": 1.0
     },
     "del": {
-        "norte": 1
+        "norte": 1.0
     },
     "norte": {
-        "de": 1
+        "de": 1.0
     },
     "inglaterra;": {
-        "que": 1
+        "que": 1.0
     },
     "vino": {
-        "el": 1
+        "el": 1.0
     },
     "lunes": {
-        "en": 1
+        "en": 1.0
     },
     "landó": {
-        "de": 1
+        "de": 1.0
     },
     "cuatro": {
-        "caballos": 1,
-        "o": 1
+        "caballos": 0.5,
+        "o": 0.5
     },
     "caballos": {
-        "para": 1
+        "para": 1.0
     },
     "para": {
-        "ver": 1,
-        "nuestras": 1,
-        "poder": 1,
-        "observar": 1,
-        "su": 1,
-        "aprender": 1,
-        "cautivar": 1,
-        "continuar": 1,
-        "decirles": 1,
-        "nada": 1,
-        "que": 2
+        "ver": 0.08333333333333333,
+        "nuestras": 0.08333333333333333,
+        "poder": 0.08333333333333333,
+        "observar": 0.08333333333333333,
+        "su": 0.08333333333333333,
+        "aprender": 0.08333333333333333,
+        "cautivar": 0.08333333333333333,
+        "continuar": 0.08333333333333333,
+        "decirles": 0.08333333333333333,
+        "nada": 0.08333333333333333,
+        "que": 0.16666666666666666
     },
     "ver": {
-        "el": 1,
-        "con": 1
+        "el": 0.5,
+        "con": 0.5
     },
     "lugar;": {
-        "y": 1
+        "y": 1.0
     },
     "quedó": {
-        "tan": 1,
-        "lo": 1
+        "tan": 0.5,
+        "lo": 0.5
     },
     "encantado": {
-        "con": 1
+        "con": 1.0
     },
     "con": {
-        "él": 1,
-        "el": 2,
-        "su": 1,
-        "muchos": 1,
-        "la": 2,
-        "ellos": 1
+        "él": 0.125,
+        "el": 0.25,
+        "su": 0.125,
+        "muchos": 0.125,
+        "la": 0.25,
+        "ellos": 0.125
     },
     "él": {
-        "que": 1
+        "que": 1.0
     },
     "inmediatamente": {
-        "llegó": 1,
-        "al": 1
+        "llegó": 0.5,
+        "al": 0.5
     },
     "llegó": {
-        "a": 1
+        "a": 1.0
     },
     "acuerdo": {
-        "con": 1,
-        "contigo": 1
+        "con": 0.5,
+        "contigo": 0.5
     },
     "morris;": {
-        "que": 1
+        "que": 1.0
     },
     "antes": {
-        "de": 1
+        "de": 1.0
     },
     "san": {
-        "miguel": 1
+        "miguel": 1.0
     },
     "miguel": {
-        "vendrá": 1
+        "vendrá": 1.0
     },
     "vendrá": {
-        "a": 1
+        "a": 1.0
     },
     "ocuparlo;": {
-        "y": 1
+        "y": 1.0
     },
     "algunos": {
-        "de": 1
+        "de": 1.0
     },
     "criados": {
-        "estarán": 1
+        "estarán": 1.0
     },
     "estarán": {
-        "en": 1
+        "en": 1.0
     },
     "casa": {
-        "a": 1
+        "a": 1.0
     },
     "finales": {
-        "de": 1
+        "de": 1.0
     },
     "semana": {
-        "que": 1
+        "que": 1.0
     },
     "viene": {
-        "cómo": 1
+        "cómo": 1.0
     },
     "cómo": {
-        "se": 1
+        "se": 1.0
     },
     "llama": {
-        "bingley": 1
+        "bingley": 1.0
     },
     "bingley": {
-        "está": 1,
-        "y": 1,
-        "—entonces": 1,
-        "protestaron": 1,
-        "cuando": 1,
-        "no": 2,
-        "decidió": 1,
-        "estaba": 1
+        "está": 0.09090909090909091,
+        "y": 0.09090909090909091,
+        "será": 0.09090909090909091,
+        "que": 0.09090909090909091,
+        "entonces": 0.09090909090909091,
+        "protestaron": 0.09090909090909091,
+        "cuando": 0.09090909090909091,
+        "no": 0.18181818181818182,
+        "decidió": 0.09090909090909091,
+        "estaba": 0.09090909090909091
     },
     "casado": {
-        "o": 1
+        "o": 1.0
     },
     "o": {
-        "soltero": 1,
-        "cinco": 1,
-        "más": 1,
-        "forrar": 1
+        "soltero": 0.25,
+        "cinco": 0.25,
+        "más": 0.25,
+        "forrar": 0.25
     },
-    "—oh": {
-        "soltero": 1,
-        "desde": 1
+    "oh": {
+        "soltero": 0.5,
+        "desde": 0.5
     },
     "supuesto": {
-        "un": 1
+        "un": 1.0
     },
     "fortuna;": {
-        "cuatro": 1
+        "cuatro": 1.0
     },
     "cinco": {
-        "mil": 1
+        "mil": 1.0
     },
     "mil": {
-        "libras": 1
+        "libras": 1.0
     },
     "libras": {
-        "al": 1
+        "al": 1.0
     },
     "al": {
-        "año": 1,
-        "orden": 1,
-        "juego": 1,
-        "sexo": 1,
-        "suyo": 1,
-        "doctor": 2
+        "año": 0.14285714285714285,
+        "orden": 0.14285714285714285,
+        "juego": 0.14285714285714285,
+        "sexo": 0.14285714285714285,
+        "suyo": 0.14285714285714285,
+        "doctor": 0.2857142857142857
     },
     "año": {
-        "qué": 1
+        "qué": 1.0
     },
     "qué": {
-        "buen": 1,
-        "figura": 1,
-        "modales": 1,
-        "talento": 1,
-        "dices": 1
+        "buen": 0.16666666666666666,
+        "ganas": 0.16666666666666666,
+        "figura": 0.16666666666666666,
+        "modales": 0.16666666666666666,
+        "talento": 0.16666666666666666,
+        "dices": 0.16666666666666666
     },
     "buen": {
-        "partido": 1
+        "partido": 1.0
     },
     "partido": {
-        "para": 1
+        "para": 1.0
     },
     "nuestras": {
-        "hijas": 1
-    },
-    "—a": {
-        "mí": 1
+        "hijas": 1.0
     },
     "mí": {
-        "no": 1
+        "no": 1.0
     },
     "divierte": {
-        "toser": 1
+        "toser": 1.0
     },
     "toser": {
-        "—replicó": 1
+        "replicó": 1.0
     },
-    "—replicó": {
-        "kitty": 1
+    "replicó": {
+        "kitty": 1.0
     },
     "kitty": {
-        "quejándose": 1
+        "quejándose": 1.0
     },
     "quejándose": {
-        "—ya": 1,
-        "amargamente": 1
-    },
-    "—ya": {
-        "lo": 1
-    },
-    "creo": {
-        "que": 1
-    },
-    "haría": {
-        "y": 1
-    },
-    "compraría": {
-        "el": 1
-    },
-    "mismo": {
-        "pemberley": 1
-    },
-    "pemberley": {
-        "si": 1,
-        "comprándolo": 1
-    },
-    "si": {
-        "darcy": 1,
-        "no": 1,
-        "jane": 1
-    },
-    "darcy": {
-        "lo": 1,
-        "desde": 1,
-        "a": 1
-    },
-    "vendiera": {
-        "—hablo": 1
-    },
-    "—hablo": {
-        "de": 1
-    },
-    "posibilidades": {
-        "charles": 1
-    },
-    "charles": {
-        "—sinceramente": 1,
-        "qué": 1
-    },
-    "—sinceramente": {
-        "caroline": 1
-    },
-    "caroline": {
-        "preferiría": 1
-    },
-    "preferiría": {
-        "conseguir": 1
-    },
-    "conseguir": {
-        "pemberley": 1
-    },
-    "comprándolo": {
-        "que": 1
-    },
-    "imitándolo": {
-        "elizabeth": 1
-    },
-    "elizabeth": {
-        "estaba": 1,
-        "bennet": 1,
-        "no": 2,
-        "—dijo": 1,
-        "se": 1
-    },
-    "estaba": {
-        "demasiado": 1,
-        "peor": 1,
-        "bastante": 1
-    },
-    "demasiado": {
-        "absorta": 1
-    },
-    "absorta": {
-        "en": 1
-    },
-    "ocurría": {
-        "para": 1
-    },
-    "poder": {
-        "prestar": 1
-    },
-    "prestar": {
-        "la": 1
-    },
-    "menor": {
-        "atención": 1
-    },
-    "atención": {
-        "a": 1,
-        "al": 1,
-        "posible": 1
-    },
-    "libro;": {
-        "no": 1
-    },
-    "tardó": {
-        "en": 2
-    },
-    "abandonarlo": {
-        "se": 1
-    },
-    "acercó": {
-        "a": 1
-    },
-    "mesa": {
-        "de": 1
-    },
-    "juego": {
-        "y": 1,
-        "como": 1
-    },
-    "colocó": {
-        "entre": 1
-    },
-    "entre": {
-        "bingley": 1
-    },
-    "hermana": {
-        "mayor": 1,
-        "estaba": 1
-    },
-    "mayor": {
-        "para": 1
-    },
-    "observar": {
-        "la": 1
-    },
-    "partida": {
-        "—ha": 1
-    },
-    "—ha": {
-        "crecido": 1
-    },
-    "crecido": {
-        "la": 1
-    },
-    "señorita": {
-        "darcy": 1,
-        "bingley—": 1,
-        "elizabeth": 1,
-        "bingley": 4
-    },
-    "desde": {
-        "la": 1,
-        "luego": 2
-    },
-    "primavera": {
-        "—preguntó": 1
-    },
-    "—preguntó": {
-        "la": 1
-    },
-    "bingley—": {
-        "será": 1,
-        "que": 1
-    },
-    "será": {
-        "ya": 1,
-        "de": 1
+        "ya": 0.5,
+        "amargamente": 0.5
     },
     "ya": {
-        "tan": 1
+        "lo": 0.5,
+        "tan": 0.5
+    },
+    "creo": {
+        "que": 1.0
+    },
+    "haría": {
+        "y": 1.0
+    },
+    "compraría": {
+        "el": 1.0
+    },
+    "mismo": {
+        "pemberley": 1.0
+    },
+    "pemberley": {
+        "si": 0.5,
+        "comprándolo": 0.5
+    },
+    "si": {
+        "darcy": 0.3333333333333333,
+        "no": 0.3333333333333333,
+        "jane": 0.3333333333333333
+    },
+    "darcy": {
+        "lo": 0.2,
+        "desde": 0.2,
+        "tiene": 0.2,
+        "y": 0.2,
+        "a": 0.2
+    },
+    "vendiera": {
+        "hablo": 1.0
+    },
+    "hablo": {
+        "de": 1.0
+    },
+    "posibilidades": {
+        "charles": 1.0
+    },
+    "charles": {
+        "sinceramente": 0.5,
+        "qué": 0.5
+    },
+    "sinceramente": {
+        "caroline": 1.0
+    },
+    "caroline": {
+        "preferiría": 1.0
+    },
+    "preferiría": {
+        "conseguir": 1.0
+    },
+    "conseguir": {
+        "pemberley": 1.0
+    },
+    "comprándolo": {
+        "que": 1.0
+    },
+    "imitándolo": {
+        "elizabeth": 1.0
+    },
+    "elizabeth": {
+        "estaba": 0.14285714285714285,
+        "bennet": 0.14285714285714285,
+        "debe": 0.14285714285714285,
+        "no": 0.2857142857142857,
+        "dijo": 0.14285714285714285,
+        "se": 0.14285714285714285
+    },
+    "estaba": {
+        "demasiado": 0.3333333333333333,
+        "peor": 0.3333333333333333,
+        "bastante": 0.3333333333333333
+    },
+    "demasiado": {
+        "absorta": 1.0
+    },
+    "absorta": {
+        "en": 1.0
+    },
+    "ocurría": {
+        "para": 1.0
+    },
+    "poder": {
+        "prestar": 1.0
+    },
+    "prestar": {
+        "la": 1.0
+    },
+    "menor": {
+        "atención": 1.0
+    },
+    "atención": {
+        "a": 0.3333333333333333,
+        "al": 0.3333333333333333,
+        "posible": 0.3333333333333333
+    },
+    "libro;": {
+        "no": 1.0
+    },
+    "tardó": {
+        "en": 1.0
+    },
+    "abandonarlo": {
+        "se": 1.0
+    },
+    "acercó": {
+        "a": 1.0
+    },
+    "mesa": {
+        "de": 1.0
+    },
+    "juego": {
+        "y": 0.5,
+        "como": 0.5
+    },
+    "colocó": {
+        "entre": 1.0
+    },
+    "entre": {
+        "bingley": 1.0
+    },
+    "hermana": {
+        "mayor": 0.5,
+        "estaba": 0.5
+    },
+    "mayor": {
+        "para": 1.0
+    },
+    "observar": {
+        "la": 1.0
+    },
+    "partida": {
+        "ha": 1.0
+    },
+    "crecido": {
+        "la": 1.0
+    },
+    "señorita": {
+        "darcy": 0.14285714285714285,
+        "bingley": 0.7142857142857143,
+        "elizabeth": 0.14285714285714285
+    },
+    "desde": {
+        "la": 0.3333333333333333,
+        "luego": 0.6666666666666666
+    },
+    "primavera": {
+        "preguntó": 1.0
+    },
+    "preguntó": {
+        "la": 1.0
+    },
+    "será": {
+        "ya": 0.5,
+        "de": 0.5
     },
     "alta": {
-        "como": 1,
-        "—qué": 1
+        "como": 0.5,
+        "qué": 0.5
     },
     "como": {
-        "yo": 1,
-        "lo": 1,
-        "usted": 1,
-        "la": 1,
-        "para": 1
-    },
-    "—creo": {
-        "que": 1
+        "yo": 0.2,
+        "lo": 0.2,
+        "usted": 0.2,
+        "la": 0.2,
+        "para": 0.2
     },
     "sí": {
-        "ahora": 1
+        "ahora": 0.3333333333333333,
+        "todas": 0.3333333333333333,
+        "es": 0.3333333333333333
     },
     "ahora": {
-        "será": 1,
-        "que": 1
+        "será": 0.5,
+        "que": 0.5
     },
     "estatura": {
-        "de": 1
+        "de": 1.0
     },
     "más": {
-        "alta": 1,
-        "que": 2,
-        "sustancial": 1,
-        "eminentes": 1,
-        "tarde": 1
-    },
-    "—qué": {
-        "ganas": 1
+        "alta": 0.16666666666666666,
+        "que": 0.3333333333333333,
+        "sustancial": 0.16666666666666666,
+        "eminentes": 0.16666666666666666,
+        "tarde": 0.16666666666666666
     },
     "ganas": {
-        "tengo": 1
+        "tengo": 1.0
     },
     "volver": {
-        "a": 1
+        "a": 1.0
     },
     "verla": {
-        "nunca": 1
+        "nunca": 1.0
     },
     "nunca": {
-        "he": 4
+        "he": 1.0
     },
     "he": {
-        "conocido": 2,
-        "oído": 1,
-        "visto": 2
+        "conocido": 0.4,
+        "oído": 0.2,
+        "visto": 0.4
     },
     "conocido": {
-        "a": 1,
-        "no": 1
+        "a": 0.5,
+        "no": 0.5
     },
     "nadie": {
-        "que": 1,
-        "puede": 1
+        "que": 0.5,
+        "puede": 0.5
     },
     "guste": {
-        "tanto": 1
+        "tanto": 1.0
     },
     "tanto": {
-        "qué": 1,
-        "y": 1,
-        "gusto": 1
+        "qué": 0.3333333333333333,
+        "y": 0.3333333333333333,
+        "gusto": 0.3333333333333333
     },
     "figura": {
-        "qué": 1
+        "qué": 1.0
     },
     "modales": {
-        "y": 1
+        "y": 1.0
     },
     "talento": {
-        "para": 1
+        "para": 1.0
     },
     "edad": {
-        "toca": 1
+        "toca": 1.0
     },
     "toca": {
-        "el": 1
+        "el": 1.0
     },
     "piano": {
-        "de": 1
+        "de": 1.0
     },
     "modo": {
-        "exquisito": 1,
-        "de": 1
+        "exquisito": 0.5,
+        "de": 0.5
     },
     "exquisito": {
-        "—me": 1
-    },
-    "—me": {
-        "asombra": 1
+        "me": 1.0
     },
     "asombra": {
-        "—dijo": 1
-    },
-    "—dijo": {
-        "bingley—": 1,
-        "darcy—": 1,
-        "la": 2
+        "dijo": 1.0
     },
     "jóvenes": {
-        "tengan": 1,
-        "perfectas": 1
+        "tengan": 0.5,
+        "perfectas": 0.5
     },
     "tengan": {
-        "tanta": 1
+        "tanta": 1.0
     },
     "tanta": {
-        "paciencia": 1,
-        "capacidad": 1,
-        "aplicación": 1,
-        "elegancia": 1
+        "paciencia": 0.25,
+        "capacidad": 0.25,
+        "aplicación": 0.25,
+        "elegancia": 0.25
     },
     "paciencia": {
-        "para": 1
+        "para": 1.0
     },
     "aprender": {
-        "tanto": 1
+        "tanto": 1.0
     },
     "lleguen": {
-        "a": 1
+        "a": 1.0
     },
     "ser": {
-        "tan": 1,
-        "que": 1
+        "tan": 0.5,
+        "que": 0.5
     },
     "perfectas": {
-        "como": 1,
-        "mi": 1,
-        "—ni": 1,
-        "lo": 1
+        "como": 0.25,
+        "mi": 0.25,
+        "ni": 0.25,
+        "lo": 0.25
     },
     "son": {
-        "todas": 1,
-        "otros": 1
+        "todas": 0.5,
+        "otros": 0.5
     },
     "todas": {
-        "—todas": 1,
-        "todas": 1,
-        "pintan": 1,
-        "estas": 1,
-        "las": 2
-    },
-    "—todas": {
-        "las": 1
+        "todas": 0.2857142857142857,
+        "las": 0.42857142857142855,
+        "pintan": 0.14285714285714285,
+        "estas": 0.14285714285714285
     },
     "dices": {
-        "—sí": 1
-    },
-    "—sí": {
-        "todas": 1,
-        "es": 1
+        "sí": 1.0
     },
     "pintan": {
-        "forran": 1
+        "forran": 1.0
     },
     "forran": {
-        "biombos": 1
+        "biombos": 1.0
     },
     "biombos": {
-        "y": 1,
-        "pero": 1
+        "y": 0.5,
+        "pero": 0.5
     },
     "hacen": {
-        "bolsitas": 1
+        "bolsitas": 1.0
     },
     "bolsitas": {
-        "de": 1
+        "de": 1.0
     },
     "malla": {
-        "no": 1,
-        "o": 1
+        "no": 0.5,
+        "o": 0.5
     },
     "conozco": {
-        "a": 1
+        "a": 1.0
     },
     "ninguna": {
-        "que": 1
+        "que": 1.0
     },
     "sepa": {
-        "hacer": 1
+        "hacer": 1.0
     },
     "hacer": {
-        "todas": 1,
-        "bolsos": 1
+        "todas": 0.5,
+        "bolsos": 0.5
     },
     "estas": {
-        "cosas": 1
+        "cosas": 1.0
     },
     "cosas": {
-        "y": 1
+        "y": 1.0
     },
     "oído": {
-        "hablar": 1
+        "hablar": 1.0
     },
     "hablar": {
-        "de": 2
+        "de": 1.0
     },
     "damita": {
-        "por": 1
+        "por": 1.0
     },
     "primera": {
-        "vez": 1
+        "vez": 1.0
     },
     "vez": {
-        "sin": 1
+        "sin": 1.0
     },
     "informara": {
-        "de": 1
+        "de": 1.0
     },
     "era": {
-        "perfecta": 1
+        "perfecta": 1.0
     },
     "perfecta": {
-        "—tu": 1,
-        "es": 1
-    },
-    "—tu": {
-        "lista": 1
-    },
-    "lista": {
-        "de": 1
-    },
-    "abarcan": {
-        "comúnmente": 1
-    },
-    "comúnmente": {
-        "esas": 1
-    },
-    "esas": {
-        "perfecciones": 1,
-        "muchachas": 1
-    },
-    "perfecciones": {
-        "—dijo": 1
-    },
-    "darcy—": {
-        "tiene": 1,
-        "y": 1
-    },
-    "tiene": {
-        "mucho": 1
-    },
-    "mucho": {
-        "de": 2,
-        "lo": 1
-    },
-    "adjetivo": {
-        "se": 1
-    },
-    "aplica": {
-        "a": 1
-    },
-    "mujeres": {
-        "cuyos": 1,
-        "perfectas": 1,
-        "que": 1
-    },
-    "cuyos": {
-        "conocimientos": 1
-    },
-    "conocimientos": {
-        "no": 1
-    },
-    "otros": {
-        "que": 1
-    },
-    "bolsos": {
-        "de": 1
-    },
-    "forrar": {
-        "biombos": 1
-    },
-    "pero": {
-        "disto": 1,
-        "en": 1,
-        "no": 1
-    },
-    "disto": {
-        "mucho": 1
-    },
-    "estar": {
-        "de": 1
-    },
-    "contigo": {
-        "en": 1
-    },
-    "refiere": {
-        "a": 1
+        "tu": 0.5,
+        "es": 0.5
     },
     "tu": {
-        "estimación": 1
+        "lista": 0.5,
+        "estimación": 0.5
+    },
+    "lista": {
+        "de": 1.0
+    },
+    "abarcan": {
+        "comúnmente": 1.0
+    },
+    "comúnmente": {
+        "esas": 1.0
+    },
+    "esas": {
+        "perfecciones": 0.5,
+        "muchachas": 0.5
+    },
+    "perfecciones": {
+        "dijo": 1.0
+    },
+    "tiene": {
+        "mucho": 1.0
+    },
+    "mucho": {
+        "de": 0.6666666666666666,
+        "lo": 0.3333333333333333
+    },
+    "adjetivo": {
+        "se": 1.0
+    },
+    "aplica": {
+        "a": 1.0
+    },
+    "mujeres": {
+        "cuyos": 0.3333333333333333,
+        "perfectas": 0.3333333333333333,
+        "que": 0.3333333333333333
+    },
+    "cuyos": {
+        "conocimientos": 1.0
+    },
+    "conocimientos": {
+        "no": 1.0
+    },
+    "otros": {
+        "que": 1.0
+    },
+    "bolsos": {
+        "de": 1.0
+    },
+    "forrar": {
+        "biombos": 1.0
+    },
+    "pero": {
+        "disto": 0.3333333333333333,
+        "en": 0.3333333333333333,
+        "no": 0.3333333333333333
+    },
+    "disto": {
+        "mucho": 1.0
+    },
+    "estar": {
+        "de": 1.0
+    },
+    "contigo": {
+        "en": 1.0
+    },
+    "refiere": {
+        "a": 1.0
     },
     "estimación": {
-        "de": 1
+        "de": 1.0
     },
     "damas": {
-        "en": 1,
-        "a": 1
+        "en": 0.5,
+        "a": 0.5
     },
     "general": {
-        "de": 1
+        "de": 1.0
     },
     "puedo": {
-        "alardear": 1
+        "alardear": 1.0
     },
     "alardear": {
-        "de": 1
+        "de": 1.0
     },
     "conocer": {
-        "más": 1
+        "más": 1.0
     },
     "media": {
-        "docena": 1
+        "docena": 1.0
     },
     "docena": {
-        "que": 1
+        "que": 1.0
     },
     "sean": {
-        "realmente": 1
+        "realmente": 1.0
     },
     "realmente": {
-        "perfectas": 1,
-        "perfecto": 1
-    },
-    "—ni": {
-        "yo": 1
-    },
-    "luego": {
-        "—dijo": 1,
-        "exclamó": 1
-    },
-    "—entonces": {
-        "observó": 1
-    },
-    "observó": {
-        "elizabeth—": 1
-    },
-    "elizabeth—": {
-        "debe": 1
-    },
-    "debe": {
-        "ser": 1,
-        "tener": 1,
-        "poseer": 1
-    },
-    "concepto": {
-        "de": 1
-    },
-    "mujer": {
-        "perfecta": 1,
-        "debe": 1,
-        "así": 1
-    },
-    "exigente": {
-        "—sí": 1,
-        "—oh": 1
-    },
-    "exclamó": {
-        "su": 1
-    },
-    "fiel": {
-        "colaboradora—": 1
-    },
-    "colaboradora—": {
-        "nadie": 1
-    },
-    "puede": {
-        "estimarse": 1
-    },
-    "estimarse": {
-        "realmente": 1
-    },
-    "perfecto": {
-        "si": 1
-    },
-    "sobrepasa": {
-        "en": 1
-    },
-    "encuentra": {
-        "normalmente": 1
-    },
-    "normalmente": {
-        "una": 1
-    },
-    "tener": {
-        "un": 1
-    },
-    "conocimiento": {
-        "profundo": 1
-    },
-    "profundo": {
-        "de": 1
-    },
-    "música": {
-        "canto": 1
-    },
-    "canto": {
-        "dibujo": 1
-    },
-    "dibujo": {
-        "baile": 1
-    },
-    "baile": {
-        "y": 1
-    },
-    "lenguas": {
-        "modernas": 1
-    },
-    "modernas": {
-        "y": 1
-    },
-    "además": {
-        "de": 1
-    },
-    "esto": {
-        "debe": 1,
-        "—agregó": 1,
-        "sea": 1,
-        "último": 1
-    },
-    "poseer": {
-        "un": 1,
-        "todo": 1
-    },
-    "algo": {
-        "especial": 1,
-        "más": 1,
-        "que": 1
-    },
-    "especial": {
-        "en": 1
-    },
-    "aire": {
-        "y": 1
-    },
-    "manera": {
-        "de": 1,
-        "que": 1
-    },
-    "andar": {
-        "en": 1
-    },
-    "tono": {
-        "de": 1
-    },
-    "voz": {
-        "en": 1
-    },
-    "trato": {
-        "y": 1
-    },
-    "expresarse;": {
-        "pues": 1
-    },
-    "contrario": {
-        "no": 1
-    },
-    "merecería": {
-        "el": 1
-    },
-    "calificativo": {
-        "más": 1
-    },
-    "medias": {
-        "—debe": 1
-    },
-    "—debe": {
-        "poseer": 1
-    },
-    "—agregó": {
-        "darcy—": 1
-    },
-    "ello": {
-        "hay": 1
-    },
-    "hay": {
-        "que": 1,
-        "vileza": 1
-    },
-    "añadir": {
-        "algo": 1
-    },
-    "sustancial": {
-        "en": 1
-    },
-    "desarrollo": {
-        "de": 1
-    },
-    "inteligencia": {
-        "por": 1
-    },
-    "medio": {
-        "de": 1
-    },
-    "abundantes": {
-        "lecturas": 1
-    },
-    "lecturas": {
-        "—no": 1
-    },
-    "—no": {
-        "me": 1
-    },
-    "sorprende": {
-        "ahora": 1
-    },
-    "conozca": {
-        "sólo": 1,
-        "a": 1
-    },
-    "sólo": {
-        "a": 1,
-        "para": 1
-    },
-    "seis": {
-        "mujeres": 1
-    },
-    "extraña": {
-        "es": 1
-    },
-    "alguna": {
-        "tan": 1
-    },
-    "severa": {
-        "es": 1
-    },
-    "usted": {
-        "con": 1,
-        "describe": 1
-    },
-    "propio": {
-        "sexo": 1
-    },
-    "sexo": {
-        "que": 1,
-        "opuesto": 1
-    },
-    "duda": {
-        "de": 1,
-        "afirmando": 1
-    },
-    "sea": {
-        "posible": 1
-    },
-    "posible": {
-        "yo": 1,
-        "a": 1
-    },
-    "visto": {
-        "una": 1,
-        "tanta": 1
-    },
-    "capacidad": {
-        "tanto": 1
-    },
-    "gusto": {
-        "tanta": 1
-    },
-    "aplicación": {
-        "y": 1
-    },
-    "elegancia": {
-        "juntas": 1
-    },
-    "juntas": {
-        "como": 1
-    },
-    "describe": {
-        "la": 1
-    },
-    "hurst": {
-        "y": 1,
-        "las": 1
-    },
-    "protestaron": {
-        "contra": 1
-    },
-    "contra": {
-        "la": 1
-    },
-    "injusticia": {
-        "de": 1
-    },
-    "implícita": {
-        "duda": 1
-    },
-    "afirmando": {
-        "que": 1
-    },
-    "conocían": {
-        "muchas": 1
-    },
-    "muchas": {
-        "mujeres": 1
-    },
-    "respondían": {
-        "a": 1
-    },
-    "dicha": {
-        "descripción": 1
-    },
-    "descripción": {
-        "cuando": 1
-    },
-    "llamó": {
-        "al": 1
-    },
-    "orden": {
-        "quejándose": 1
-    },
-    "amargamente": {
-        "de": 1
-    },
-    "prestasen": {
-        "atención": 1
-    },
-    "conversación": {
-        "parecía": 1
-    },
-    "parecía": {
-        "haber": 1
-    },
-    "haber": {
-        "terminado": 1
-    },
-    "terminado": {
-        "elizabeth": 1
-    },
-    "abandonar": {
-        "el": 1
-    },
-    "salón": {
-        "elizabeth": 1
-    },
-    "puerta": {
-        "se": 1
-    },
-    "hubo": {
-        "cerrado": 1
-    },
-    "cerrado": {
-        "tras": 1
-    },
-    "tras": {
-        "ella—": 1
-    },
-    "ella—": {
-        "es": 1
-    },
-    "muchachas": {
-        "que": 1
-    },
-    "tratan": {
-        "de": 1
-    },
-    "hacerse": {
-        "agradables": 1
-    },
-    "agradables": {
-        "al": 1
-    },
-    "opuesto": {
-        "desacreditando": 1
-    },
-    "desacreditando": {
-        "al": 1
-    },
-    "suyo": {
-        "propio;": 1
-    },
-    "propio;": {
-        "no": 1
-    },
-    "diré": {
-        "que": 1
-    },
-    "dé": {
-        "resultado": 1
-    },
-    "resultado": {
-        "con": 1
-    },
-    "muchos": {
-        "hombres": 1
-    },
-    "hombres": {
-        "pero": 1,
-        "todo": 1
-    },
-    "opinión": {
-        "es": 1
-    },
-    "truco": {
-        "vil": 1
-    },
-    "vil": {
-        "una": 1
-    },
-    "mala": {
-        "maña": 1
-    },
-    "maña": {
-        "indudablemente": 1
-    },
-    "indudablemente": {
-        "—respondió": 1
-    },
-    "—respondió": {
-        "darcy": 1
-    },
-    "quien": {
-        "iba": 1
-    },
-    "iba": {
-        "dirigida": 1
-    },
-    "dirigida": {
-        "principalmente": 1
-    },
-    "principalmente": {
-        "esta": 1
-    },
-    "observación—": {
-        "hay": 1
-    },
-    "vileza": {
-        "en": 1
-    },
-    "artes": {
-        "que": 1
-    },
-    "veces": {
-        "se": 1
-    },
-    "rebajan": {
-        "a": 1
-    },
-    "emplear": {
-        "para": 1
-    },
-    "cautivar": {
-        "a": 1
-    },
-    "tenga": {
-        "algo": 1
-    },
-    "astucia": {
-        "es": 1
-    },
-    "despreciable": {
-        "la": 1
-    },
-    "bastante": {
-        "satisfecha": 1,
-        "preocupado": 1
-    },
-    "satisfecha": {
-        "con": 1
-    },
-    "respuesta": {
-        "como": 1
-    },
-    "continuar": {
-        "con": 1
-    },
-    "tema": {
-        "elizabeth": 1
-    },
-    "reunió": {
-        "de": 1
-    },
-    "nuevo": {
-        "con": 1
-    },
-    "ellos": {
-        "sólo": 1
-    },
-    "decirles": {
-        "que": 1
-    },
-    "peor": {
-        "y": 1
-    },
-    "podía": {
-        "dejarla": 1,
-        "encontrar": 1
-    },
-    "dejarla": {
-        "bingley": 1
-    },
-    "decidió": {
-        "enviar": 1
-    },
-    "enviar": {
-        "a": 2
-    },
-    "alguien": {
-        "a": 2
-    },
-    "buscar": {
-        "inmediatamente": 1,
-        "al": 1
-    },
-    "doctor": {
-        "jones;": 1,
-        "jones": 1
-    },
-    "jones;": {
-        "mientras": 1
-    },
-    "mientras": {
-        "que": 1,
-        "bingley": 1
-    },
-    "hermanas": {
-        "convencidas": 1,
-        "estaban": 1
-    },
-    "convencidas": {
-        "de": 1
-    },
-    "asistencia": {
-        "médica": 1
-    },
-    "médica": {
-        "en": 1
-    },
-    "campo": {
-        "no": 1
-    },
-    "servía": {
-        "para": 1
-    },
-    "nada": {
-        "propusieron": 1
-    },
-    "propusieron": {
-        "enviar": 1
-    },
-    "capital": {
-        "para": 1
-    },
-    "trajese": {
-        "a": 1
-    },
-    "uno": {
-        "de": 1
-    },
-    "eminentes": {
-        "doctores": 1
-    },
-    "doctores": {
-        "elizabeth": 1
-    },
-    "quiso": {
-        "ni": 1
+        "perfectas": 0.5,
+        "perfecto": 0.5
     },
     "ni": {
-        "oír": 1
+        "yo": 0.5,
+        "oír": 0.5
+    },
+    "luego": {
+        "dijo": 0.5,
+        "exclamó": 0.5
+    },
+    "entonces": {
+        "observó": 1.0
+    },
+    "observó": {
+        "elizabeth": 1.0
+    },
+    "debe": {
+        "ser": 0.25,
+        "tener": 0.25,
+        "poseer": 0.5
+    },
+    "concepto": {
+        "de": 1.0
+    },
+    "mujer": {
+        "perfecta": 0.3333333333333333,
+        "debe": 0.3333333333333333,
+        "así": 0.3333333333333333
+    },
+    "exigente": {
+        "sí": 0.5,
+        "oh": 0.5
+    },
+    "exclamó": {
+        "su": 1.0
+    },
+    "fiel": {
+        "colaboradora": 1.0
+    },
+    "colaboradora": {
+        "nadie": 1.0
+    },
+    "puede": {
+        "estimarse": 1.0
+    },
+    "estimarse": {
+        "realmente": 1.0
+    },
+    "perfecto": {
+        "si": 1.0
+    },
+    "sobrepasa": {
+        "en": 1.0
+    },
+    "encuentra": {
+        "normalmente": 1.0
+    },
+    "normalmente": {
+        "una": 1.0
+    },
+    "tener": {
+        "un": 1.0
+    },
+    "conocimiento": {
+        "profundo": 1.0
+    },
+    "profundo": {
+        "de": 1.0
+    },
+    "música": {
+        "canto": 1.0
+    },
+    "canto": {
+        "dibujo": 1.0
+    },
+    "dibujo": {
+        "baile": 1.0
+    },
+    "baile": {
+        "y": 1.0
+    },
+    "lenguas": {
+        "modernas": 1.0
+    },
+    "modernas": {
+        "y": 1.0
+    },
+    "además": {
+        "de": 1.0
+    },
+    "esto": {
+        "debe": 0.25,
+        "agregó": 0.25,
+        "sea": 0.25,
+        "último": 0.25
+    },
+    "poseer": {
+        "un": 0.5,
+        "todo": 0.5
+    },
+    "algo": {
+        "especial": 0.3333333333333333,
+        "más": 0.3333333333333333,
+        "que": 0.3333333333333333
+    },
+    "especial": {
+        "en": 1.0
+    },
+    "aire": {
+        "y": 1.0
+    },
+    "manera": {
+        "de": 0.5,
+        "que": 0.5
+    },
+    "andar": {
+        "en": 1.0
+    },
+    "tono": {
+        "de": 1.0
+    },
+    "voz": {
+        "en": 1.0
+    },
+    "trato": {
+        "y": 1.0
+    },
+    "expresarse;": {
+        "pues": 1.0
+    },
+    "contrario": {
+        "no": 1.0
+    },
+    "merecería": {
+        "el": 1.0
+    },
+    "calificativo": {
+        "más": 1.0
+    },
+    "medias": {
+        "debe": 1.0
+    },
+    "agregó": {
+        "darcy": 1.0
+    },
+    "ello": {
+        "hay": 1.0
+    },
+    "hay": {
+        "que": 0.5,
+        "vileza": 0.5
+    },
+    "añadir": {
+        "algo": 1.0
+    },
+    "sustancial": {
+        "en": 1.0
+    },
+    "desarrollo": {
+        "de": 1.0
+    },
+    "inteligencia": {
+        "por": 1.0
+    },
+    "medio": {
+        "de": 1.0
+    },
+    "abundantes": {
+        "lecturas": 1.0
+    },
+    "lecturas": {
+        "no": 1.0
+    },
+    "sorprende": {
+        "ahora": 1.0
+    },
+    "conozca": {
+        "sólo": 0.5,
+        "a": 0.5
+    },
+    "sólo": {
+        "a": 0.5,
+        "para": 0.5
+    },
+    "seis": {
+        "mujeres": 1.0
+    },
+    "extraña": {
+        "es": 1.0
+    },
+    "alguna": {
+        "tan": 1.0
+    },
+    "severa": {
+        "es": 1.0
+    },
+    "usted": {
+        "con": 0.5,
+        "describe": 0.5
+    },
+    "propio": {
+        "sexo": 1.0
+    },
+    "sexo": {
+        "que": 0.5,
+        "opuesto": 0.5
+    },
+    "duda": {
+        "de": 0.5,
+        "afirmando": 0.5
+    },
+    "sea": {
+        "posible": 1.0
+    },
+    "posible": {
+        "yo": 0.5,
+        "a": 0.5
+    },
+    "visto": {
+        "una": 0.5,
+        "tanta": 0.5
+    },
+    "capacidad": {
+        "tanto": 1.0
+    },
+    "gusto": {
+        "tanta": 1.0
+    },
+    "aplicación": {
+        "y": 1.0
+    },
+    "elegancia": {
+        "juntas": 1.0
+    },
+    "juntas": {
+        "como": 1.0
+    },
+    "describe": {
+        "la": 1.0
+    },
+    "hurst": {
+        "y": 0.5,
+        "las": 0.5
+    },
+    "protestaron": {
+        "contra": 1.0
+    },
+    "contra": {
+        "la": 1.0
+    },
+    "injusticia": {
+        "de": 1.0
+    },
+    "implícita": {
+        "duda": 1.0
+    },
+    "afirmando": {
+        "que": 1.0
+    },
+    "conocían": {
+        "muchas": 1.0
+    },
+    "muchas": {
+        "mujeres": 1.0
+    },
+    "respondían": {
+        "a": 1.0
+    },
+    "dicha": {
+        "descripción": 1.0
+    },
+    "descripción": {
+        "cuando": 1.0
+    },
+    "llamó": {
+        "al": 1.0
+    },
+    "orden": {
+        "quejándose": 1.0
+    },
+    "amargamente": {
+        "de": 1.0
+    },
+    "prestasen": {
+        "atención": 1.0
+    },
+    "conversación": {
+        "parecía": 1.0
+    },
+    "parecía": {
+        "haber": 1.0
+    },
+    "haber": {
+        "terminado": 1.0
+    },
+    "terminado": {
+        "elizabeth": 1.0
+    },
+    "abandonar": {
+        "el": 1.0
+    },
+    "salón": {
+        "elizabeth": 1.0
+    },
+    "puerta": {
+        "se": 1.0
+    },
+    "hubo": {
+        "cerrado": 1.0
+    },
+    "cerrado": {
+        "tras": 1.0
+    },
+    "tras": {
+        "ella": 1.0
+    },
+    "ella": {
+        "es": 1.0
+    },
+    "muchachas": {
+        "que": 1.0
+    },
+    "tratan": {
+        "de": 1.0
+    },
+    "hacerse": {
+        "agradables": 1.0
+    },
+    "agradables": {
+        "al": 1.0
+    },
+    "opuesto": {
+        "desacreditando": 1.0
+    },
+    "desacreditando": {
+        "al": 1.0
+    },
+    "suyo": {
+        "propio;": 1.0
+    },
+    "propio;": {
+        "no": 1.0
+    },
+    "diré": {
+        "que": 1.0
+    },
+    "dé": {
+        "resultado": 1.0
+    },
+    "resultado": {
+        "con": 1.0
+    },
+    "muchos": {
+        "hombres": 1.0
+    },
+    "hombres": {
+        "pero": 0.5,
+        "todo": 0.5
+    },
+    "opinión": {
+        "es": 1.0
+    },
+    "truco": {
+        "vil": 1.0
+    },
+    "vil": {
+        "una": 1.0
+    },
+    "mala": {
+        "maña": 1.0
+    },
+    "maña": {
+        "indudablemente": 1.0
+    },
+    "indudablemente": {
+        "respondió": 1.0
+    },
+    "quien": {
+        "iba": 1.0
+    },
+    "iba": {
+        "dirigida": 1.0
+    },
+    "dirigida": {
+        "principalmente": 1.0
+    },
+    "principalmente": {
+        "esta": 1.0
+    },
+    "observación": {
+        "hay": 1.0
+    },
+    "vileza": {
+        "en": 1.0
+    },
+    "artes": {
+        "que": 1.0
+    },
+    "veces": {
+        "se": 1.0
+    },
+    "rebajan": {
+        "a": 1.0
+    },
+    "emplear": {
+        "para": 1.0
+    },
+    "cautivar": {
+        "a": 1.0
+    },
+    "tenga": {
+        "algo": 1.0
+    },
+    "astucia": {
+        "es": 1.0
+    },
+    "despreciable": {
+        "la": 1.0
+    },
+    "bastante": {
+        "satisfecha": 0.5,
+        "preocupado": 0.5
+    },
+    "satisfecha": {
+        "con": 1.0
+    },
+    "respuesta": {
+        "como": 1.0
+    },
+    "continuar": {
+        "con": 1.0
+    },
+    "tema": {
+        "elizabeth": 1.0
+    },
+    "reunió": {
+        "de": 1.0
+    },
+    "nuevo": {
+        "con": 1.0
+    },
+    "ellos": {
+        "sólo": 1.0
+    },
+    "decirles": {
+        "que": 1.0
+    },
+    "peor": {
+        "y": 1.0
+    },
+    "podía": {
+        "dejarla": 0.5,
+        "encontrar": 0.5
+    },
+    "dejarla": {
+        "bingley": 1.0
+    },
+    "decidió": {
+        "enviar": 1.0
+    },
+    "enviar": {
+        "a": 1.0
+    },
+    "alguien": {
+        "a": 1.0
+    },
+    "buscar": {
+        "inmediatamente": 0.5,
+        "al": 0.5
+    },
+    "doctor": {
+        "jones;": 0.5,
+        "jones": 0.5
+    },
+    "jones;": {
+        "mientras": 1.0
+    },
+    "mientras": {
+        "que": 0.5,
+        "bingley": 0.5
+    },
+    "hermanas": {
+        "convencidas": 0.5,
+        "estaban": 0.5
+    },
+    "convencidas": {
+        "de": 1.0
+    },
+    "asistencia": {
+        "médica": 1.0
+    },
+    "médica": {
+        "en": 1.0
+    },
+    "campo": {
+        "no": 1.0
+    },
+    "servía": {
+        "para": 1.0
+    },
+    "nada": {
+        "propusieron": 1.0
+    },
+    "propusieron": {
+        "enviar": 1.0
+    },
+    "capital": {
+        "para": 1.0
+    },
+    "trajese": {
+        "a": 1.0
+    },
+    "uno": {
+        "de": 1.0
+    },
+    "eminentes": {
+        "doctores": 1.0
+    },
+    "doctores": {
+        "elizabeth": 1.0
+    },
+    "quiso": {
+        "ni": 1.0
     },
     "oír": {
-        "hablar": 1
+        "hablar": 1.0
     },
     "último": {
-        "pero": 1
+        "pero": 1.0
     },
     "oponía": {
-        "a": 1
+        "a": 1.0
     },
     "hiciese": {
-        "lo": 1
+        "lo": 1.0
     },
     "decía": {
-        "el": 1
+        "el": 1.0
     },
     "hermano": {
-        "de": 1
+        "de": 1.0
     },
     "acordó": {
-        "mandar": 1
+        "mandar": 1.0
     },
     "mandar": {
-        "a": 1
+        "a": 1.0
     },
     "jones": {
-        "temprano": 1
+        "temprano": 1.0
     },
     "temprano": {
-        "a": 1
+        "a": 1.0
     },
     "mañana": {
-        "siguiente": 1
+        "siguiente": 1.0
     },
     "siguiente": {
-        "si": 1
+        "si": 1.0
     },
     "jane": {
-        "no": 1
+        "no": 1.0
     },
     "encontraba": {
-        "mejor": 1
+        "mejor": 1.0
     },
     "mejor": {
-        "bingley": 1,
-        "alivio": 1
+        "bingley": 0.5,
+        "alivio": 0.5
     },
     "preocupado": {
-        "y": 1
+        "y": 1.0
     },
     "estaban": {
-        "muy": 1
+        "muy": 1.0
     },
     "afligidas": {
-        "sin": 1
+        "sin": 1.0
     },
     "tarde": {
-        "se": 1
+        "se": 1.0
     },
     "consolaron": {
-        "cantando": 1
+        "cantando": 1.0
     },
     "cantando": {
-        "unos": 1
+        "unos": 1.0
     },
     "unos": {
-        "dúos": 1
+        "dúos": 1.0
     },
     "dúos": {
-        "mientras": 1
+        "mientras": 1.0
     },
     "encontrar": {
-        "mejor": 1
+        "mejor": 1.0
     },
     "alivio": {
-        "a": 1
+        "a": 1.0
     },
     "preocupación": {
-        "que": 1
+        "que": 1.0
     },
     "dar": {
-        "órdenes": 1
+        "órdenes": 1.0
     },
     "órdenes": {
-        "a": 1
+        "a": 1.0
     },
     "ama": {
-        "de": 1
+        "de": 1.0
     },
     "llaves": {
-        "para": 1
+        "para": 1.0
     },
     "prestase": {
-        "toda": 1
+        "toda": 1.0
     },
     "toda": {
-        "atención": 1
+        "atención": 1.0
     },
     "enferma": {
-        "y": 1
+        "y": 1.0
     }
 }
