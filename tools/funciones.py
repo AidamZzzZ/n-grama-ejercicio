@@ -11,10 +11,8 @@ def constructor_ngrama(n, contenido):
         n_grama.append(palabra.split())
     return n_grama
 
-def creacion_modelo(n_grama):
+def creacion_modelo(n, n_grama):
     modelo = {}
-
-    n = 2
     iteraciones = 0
 
     if len(n_grama) % 2 == 0:
@@ -38,7 +36,7 @@ def creacion_modelo(n_grama):
 def guardar_datos_json(data):
     import json
     
-    with open("data.json", "w", encoding="utf-8") as arch:
+    with open("data/data.json", "w", encoding="utf-8") as arch:
         json.dump(data, arch, indent=4, ensure_ascii=False)
 
 def ajuste_pesos(modelo):
