@@ -14,15 +14,16 @@ def constructor_ngrama(n, contenido):
 def creacion_modelo(n, n_grama):
     modelo = {}
     iteraciones = 0
-
     if len(n_grama) % 2 == 0:
         iteraciones = len(n_grama)
     else:
         iteraciones = len(n_grama) - 1
 
-    for i in range(iteraciones):
-        contexto = " ".join(n_grama[i][0])
-        objetivo = n_grama[i][n-1]
+    # inicializando modelo con distribuciones de palabras
+    for i in range(len(n_grama) - 1):
+        contexto = " ".join(n_grama[i][0:n-1])
+        objetivo = n_grama[i][1]
+
         if contexto not in modelo:
             modelo[contexto] ={}
                 
@@ -31,7 +32,7 @@ def creacion_modelo(n, n_grama):
         else:
             modelo[contexto][objetivo] += 1
             
-        return modelo
+    return modelo
     
 def guardar_datos_json(data):
     import json

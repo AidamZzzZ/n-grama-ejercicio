@@ -1,3215 +1,1929 @@
 {
-    "es una verdad mundialmente": {
-        "una": 1.0
+    "es": {
+        "una": 0.2222222222222222,
+        "insistió": 0.1111111111111111,
+        "muy": 0.2222222222222222,
+        "que": 0.1111111111111111,
+        "usted": 0.1111111111111111,
+        "un": 0.1111111111111111,
+        "despreciable": 0.1111111111111111
     },
-    "una verdad mundialmente reconocida": {
-        "verdad": 1.0
+    "una": {
+        "verdad": 0.1111111111111111,
+        "gran": 0.1111111111111111,
+        "esposa": 0.1111111111111111,
+        "damita": 0.1111111111111111,
+        "media": 0.1111111111111111,
+        "mujer": 0.2222222222222222,
+        "de": 0.1111111111111111,
+        "mala": 0.1111111111111111
     },
-    "verdad mundialmente reconocida que": {
-        "mundialmente": 1.0
+    "verdad": {
+        "mundialmente": 0.3333333333333333,
+        "está": 0.3333333333333333,
+        "el": 0.3333333333333333
     },
-    "mundialmente reconocida que un": {
+    "mundialmente": {
         "reconocida": 1.0
     },
-    "reconocida que un hombre": {
+    "reconocida": {
         "que": 1.0
     },
-    "que un hombre soltero": {
-        "un": 1.0
+    "que": {
+        "un": 0.017857142857142856,
+        "lo": 0.03571428571428571,
+        "algunas": 0.017857142857142856,
+        "por": 0.017857142857142856,
+        "no": 0.08928571428571429,
+        "quieres": 0.017857142857142856,
+        "la": 0.03571428571428571,
+        "netherfield": 0.017857142857142856,
+        "vino": 0.017857142857142856,
+        "se": 0.125,
+        "inmediatamente": 0.017857142857142856,
+        "antes": 0.017857142857142856,
+        "algunos": 0.017857142857142856,
+        "viene": 0.017857142857142856,
+        "imitándolo": 0.017857142857142856,
+        "ocurría": 0.017857142857142856,
+        "sí": 0.017857142857142856,
+        "me": 0.03571428571428571,
+        "las": 0.03571428571428571,
+        "era": 0.017857142857142856,
+        "abarcan": 0.017857142857142856,
+        "hacer": 0.017857142857142856,
+        "he": 0.017857142857142856,
+        "a": 0.03571428571428571,
+        "sean": 0.017857142857142856,
+        "su": 0.03571428571428571,
+        "añadir": 0.017857142857142856,
+        "conozca": 0.03571428571428571,
+        "duda": 0.017857142857142856,
+        "esto": 0.017857142857142856,
+        "conocían": 0.017857142857142856,
+        "respondían": 0.017857142857142856,
+        "tratan": 0.017857142857142856,
+        "tenga": 0.017857142857142856,
+        "ver": 0.017857142857142856,
+        "sus": 0.017857142857142856,
+        "trajese": 0.017857142857142856,
+        "decía": 0.017857142857142856,
+        "dar": 0.017857142857142856
     },
-    "un hombre soltero poseedor": {
-        "hombre": 1.0
+    "un": {
+        "hombre": 0.23076923076923078,
+        "vecindario": 0.07692307692307693,
+        "día": 0.07692307692307693,
+        "momento": 0.07692307692307693,
+        "joven": 0.07692307692307693,
+        "landó": 0.07692307692307693,
+        "acuerdo": 0.07692307692307693,
+        "modo": 0.07692307692307693,
+        "conocimiento": 0.07692307692307693,
+        "algo": 0.07692307692307693,
+        "truco": 0.07692307692307693
     },
-    "hombre soltero poseedor de": {
-        "soltero": 1.0
+    "hombre": {
+        "soltero": 0.6666666666666666,
+        "de": 0.3333333333333333
     },
-    "soltero poseedor de una": {
-        "poseedor": 1.0
+    "soltero": {
+        "poseedor": 0.25,
+        "oh": 0.25,
+        "querido": 0.25,
+        "y": 0.25
     },
-    "poseedor de una gran": {
+    "poseedor": {
         "de": 1.0
     },
-    "de una gran fortuna": {
-        "una": 1.0
+    "de": {
+        "una": 0.037037037037037035,
+        "los": 0.037037037037037035,
+        "un": 0.05555555555555555,
+        "tales": 0.018518518518518517,
+        "algunas": 0.018518518518518517,
+        "las": 0.037037037037037035,
+        "su": 0.07407407407407407,
+        "la": 0.09259259259259259,
+        "sus": 0.037037037037037035,
+        "contestar": 0.018518518518518517,
+        "inglaterra;": 0.018518518518518517,
+        "cuatro": 0.018518518518518517,
+        "san": 0.018518518518518517,
+        "gran": 0.018518518518518517,
+        "posibilidades": 0.018518518518518517,
+        "juego": 0.018518518518518517,
+        "volver": 0.018518518518518517,
+        "malla": 0.037037037037037035,
+        "que": 0.07407407407407407,
+        "lo": 0.037037037037037035,
+        "verdad": 0.018518518518518517,
+        "estar": 0.018518518518518517,
+        "acuerdo": 0.018518518518518517,
+        "todas": 0.018518518518518517,
+        "conocer": 0.018518518518518517,
+        "música": 0.018518518518518517,
+        "todo": 0.018518518518518517,
+        "andar": 0.018518518518518517,
+        "expresarse;": 0.018518518518518517,
+        "abundantes": 0.018518518518518517,
+        "esas": 0.018518518518518517,
+        "hacerse": 0.018518518518518517,
+        "nuevo": 0.018518518518518517,
+        "esto": 0.018518518518518517,
+        "manera": 0.018518518518518517,
+        "llaves": 0.018518518518518517
     },
-    "una gran fortuna necesita": {
-        "gran": 1.0
+    "gran": {
+        "fortuna": 0.5,
+        "fortuna;": 0.5
     },
-    "gran fortuna necesita una": {
-        "fortuna": 1.0
-    },
-    "fortuna necesita una esposa": {
+    "fortuna": {
         "necesita": 1.0
     },
-    "necesita una esposa sin": {
+    "necesita": {
         "una": 1.0
     },
-    "una esposa sin embargo": {
-        "esposa": 1.0
+    "esposa": {
+        "sin": 0.3333333333333333,
+        "sabías": 0.3333333333333333,
+        "eres": 0.3333333333333333
     },
-    "esposa sin embargo poco": {
-        "sin": 1.0
+    "sin": {
+        "embargo": 0.6666666666666666,
+        "que": 0.3333333333333333
     },
-    "sin embargo poco se": {
-        "embargo": 1.0
+    "embargo": {
+        "poco": 0.5,
+        "más": 0.5
     },
-    "embargo poco se sabe": {
-        "poco": 1.0
-    },
-    "poco se sabe de": {
+    "poco": {
         "se": 1.0
     },
-    "se sabe de los": {
-        "sabe": 1.0
+    "se": {
+        "sabe": 0.05,
+        "ha": 0.05,
+        "impacientó": 0.05,
+        "quedó": 0.05,
+        "llama": 0.05,
+        "acercó": 0.05,
+        "colocó": 0.05,
+        "me": 0.05,
+        "aplica": 0.05,
+        "refiere": 0.05,
+        "encuentra": 0.05,
+        "hubo": 0.05,
+        "rebajan": 0.05,
+        "reunió": 0.05,
+        "oponía": 0.05,
+        "hiciese": 0.05,
+        "acordó": 0.05,
+        "encontraba": 0.05,
+        "consolaron": 0.05,
+        "prestase": 0.05
     },
-    "sabe de los sentimientos": {
+    "sabe": {
         "de": 1.0
     },
-    "de los sentimientos u": {
-        "los": 1.0
+    "los": {
+        "sentimientos": 0.3333333333333333,
+        "hombres": 0.3333333333333333,
+        "más": 0.3333333333333333
     },
-    "los sentimientos u opiniones": {
-        "sentimientos": 1.0
-    },
-    "sentimientos u opiniones de": {
+    "sentimientos": {
         "u": 1.0
     },
-    "u opiniones de un": {
+    "u": {
         "opiniones": 1.0
     },
-    "opiniones de un hombre": {
+    "opiniones": {
         "de": 1.0
     },
-    "de un hombre de": {
-        "un": 1.0
-    },
-    "un hombre de tales": {
-        "hombre": 1.0
-    },
-    "hombre de tales condiciones": {
-        "de": 1.0
-    },
-    "de tales condiciones cuando": {
-        "tales": 1.0
-    },
-    "tales condiciones cuando entra": {
+    "tales": {
         "condiciones": 1.0
     },
-    "condiciones cuando entra a": {
+    "condiciones": {
         "cuando": 1.0
     },
-    "cuando entra a formar": {
-        "entra": 1.0
+    "cuando": {
+        "entra": 0.3333333333333333,
+        "el": 0.3333333333333333,
+        "la": 0.3333333333333333
     },
-    "entra a formar parte": {
+    "entra": {
         "a": 1.0
     },
-    "a formar parte de": {
-        "formar": 1.0
+    "a": {
+        "formar": 0.02857142857142857,
+        "un": 0.02857142857142857,
+        "ocuparlo;": 0.02857142857142857,
+        "finales": 0.02857142857142857,
+        "mí": 0.02857142857142857,
+        "su": 0.11428571428571428,
+        "la": 0.11428571428571428,
+        "verla": 0.02857142857142857,
+        "nadie": 0.02857142857142857,
+        "ser": 0.02857142857142857,
+        "ninguna": 0.02857142857142857,
+        "mujeres": 0.02857142857142857,
+        "tu": 0.02857142857142857,
+        "una": 0.02857142857142857,
+        "medias": 0.02857142857142857,
+        "ello": 0.02857142857142857,
+        "seis": 0.02857142857142857,
+        "alguna": 0.02857142857142857,
+        "dicha": 0.02857142857142857,
+        "quien": 0.02857142857142857,
+        "veces": 0.02857142857142857,
+        "emplear": 0.02857142857142857,
+        "los": 0.02857142857142857,
+        "alguien": 0.05714285714285714,
+        "buscar": 0.05714285714285714,
+        "uno": 0.02857142857142857,
+        "que": 0.02857142857142857
     },
-    "formar parte de un": {
+    "formar": {
         "parte": 1.0
     },
-    "parte de un vecindario": {
+    "parte": {
         "de": 1.0
     },
-    "de un vecindario esta": {
-        "un": 1.0
-    },
-    "un vecindario esta verdad": {
-        "vecindario": 1.0
-    },
-    "vecindario esta verdad está": {
+    "vecindario": {
         "esta": 1.0
     },
-    "esta verdad está tan": {
-        "verdad": 1.0
+    "esta": {
+        "verdad": 0.3333333333333333,
+        "sugerencia": 0.3333333333333333,
+        "observación": 0.3333333333333333
     },
-    "verdad está tan arraigada": {
-        "está": 1.0
+    "está": {
+        "tan": 0.5,
+        "casado": 0.5
     },
-    "está tan arraigada en": {
-        "tan": 1.0
+    "tan": {
+        "arraigada": 0.2,
+        "encantado": 0.2,
+        "alta": 0.2,
+        "perfectas": 0.2,
+        "severa": 0.2
     },
-    "tan arraigada en las": {
-        "arraigada": 1.0
-    },
-    "arraigada en las mentes": {
+    "arraigada": {
         "en": 1.0
     },
-    "en las mentes de": {
-        "las": 1.0
+    "en": {
+        "las": 0.058823529411764705,
+        "oírlo": 0.058823529411764705,
+        "un": 0.058823529411764705,
+        "la": 0.058823529411764705,
+        "lo": 0.11764705882352941,
+        "abandonarlo": 0.058823529411764705,
+        "general": 0.058823529411764705,
+        "mucho": 0.058823529411764705,
+        "su": 0.11764705882352941,
+        "el": 0.17647058823529413,
+        "abandonar": 0.058823529411764705,
+        "mi": 0.058823529411764705,
+        "todas": 0.058823529411764705
     },
-    "las mentes de algunas": {
-        "mentes": 1.0
+    "las": {
+        "mentes": 0.1111111111111111,
+        "familias": 0.1111111111111111,
+        "jóvenes": 0.2222222222222222,
+        "damas": 0.2222222222222222,
+        "que": 0.1111111111111111,
+        "llamó": 0.1111111111111111,
+        "artes": 0.1111111111111111
     },
-    "mentes de algunas de": {
+    "mentes": {
         "de": 1.0
     },
-    "de algunas de las": {
-        "algunas": 1.0
+    "algunas": {
+        "de": 0.5,
+        "le": 0.5
     },
-    "algunas de las familias": {
-        "de": 1.0
-    },
-    "de las familias que": {
-        "las": 1.0
-    },
-    "las familias que lo": {
-        "familias": 1.0
-    },
-    "familias que lo rodean": {
+    "familias": {
         "que": 1.0
     },
-    "que lo rodean que": {
-        "lo": 1.0
+    "lo": {
+        "rodean": 0.0625,
+        "ha": 0.125,
+        "creo": 0.0625,
+        "haría": 0.0625,
+        "vendiera": 0.0625,
+        "que": 0.4375,
+        "son": 0.0625,
+        "contrario": 0.0625,
+        "bastante": 0.0625
     },
-    "lo rodean que algunas": {
-        "rodean": 1.0
-    },
-    "rodean que algunas le": {
+    "rodean": {
         "que": 1.0
     },
-    "que algunas le consideran": {
-        "algunas": 1.0
+    "le": {
+        "consideran": 0.3333333333333333,
+        "dijo": 0.3333333333333333,
+        "fue": 0.3333333333333333
     },
-    "algunas le consideran de": {
-        "le": 1.0
-    },
-    "le consideran de su": {
-        "consideran": 1.0
-    },
-    "consideran de su legítima": {
+    "consideran": {
         "de": 1.0
     },
-    "de su legítima propiedad": {
-        "su": 1.0
+    "su": {
+        "legítima": 0.05555555555555555,
+        "esposa": 0.1111111111111111,
+        "libro;": 0.05555555555555555,
+        "hermana": 0.16666666666666666,
+        "edad": 0.05555555555555555,
+        "concepto": 0.05555555555555555,
+        "fiel": 0.05555555555555555,
+        "aire": 0.05555555555555555,
+        "voz": 0.05555555555555555,
+        "trato": 0.05555555555555555,
+        "inteligencia": 0.05555555555555555,
+        "propio": 0.05555555555555555,
+        "implícita": 0.05555555555555555,
+        "preocupación": 0.05555555555555555,
+        "ama": 0.05555555555555555
     },
-    "su legítima propiedad y": {
-        "legítima": 1.0
-    },
-    "legítima propiedad y otras": {
+    "legítima": {
         "propiedad": 1.0
     },
-    "propiedad y otras de": {
+    "propiedad": {
         "y": 1.0
     },
-    "y otras de la": {
-        "otras": 1.0
+    "y": {
+        "otras": 0.043478260869565216,
+        "me": 0.043478260869565216,
+        "yo": 0.043478260869565216,
+        "que": 0.13043478260869565,
+        "de": 0.043478260869565216,
+        "compraría": 0.043478260869565216,
+        "se": 0.043478260869565216,
+        "su": 0.043478260869565216,
+        "qué": 0.043478260869565216,
+        "lleguen": 0.043478260869565216,
+        "hacen": 0.043478260869565216,
+        "nunca": 0.043478260869565216,
+        "lenguas": 0.043478260869565216,
+        "además": 0.043478260869565216,
+        "manera": 0.043478260869565216,
+        "modo": 0.043478260869565216,
+        "a": 0.08695652173913043,
+        "tanta": 0.043478260869565216,
+        "la": 0.043478260869565216,
+        "sus": 0.043478260869565216
     },
-    "otras de la de": {
+    "otras": {
         "de": 1.0
     },
-    "de la de sus": {
-        "la": 1.0
+    "la": {
+        "de": 0.034482758620689655,
+        "señora": 0.10344827586206896,
+        "que": 0.034482758620689655,
+        "casa": 0.034482758620689655,
+        "semana": 0.034482758620689655,
+        "menor": 0.034482758620689655,
+        "mesa": 0.034482758620689655,
+        "partida": 0.034482758620689655,
+        "señorita": 0.2413793103448276,
+        "primavera": 0.034482758620689655,
+        "estatura": 0.034482758620689655,
+        "mujer": 0.034482758620689655,
+        "injusticia": 0.034482758620689655,
+        "conversación": 0.034482758620689655,
+        "puerta": 0.034482758620689655,
+        "astucia": 0.034482758620689655,
+        "respuesta": 0.034482758620689655,
+        "asistencia": 0.034482758620689655,
+        "capital": 0.034482758620689655,
+        "mañana": 0.034482758620689655,
+        "enferma": 0.034482758620689655
     },
-    "la de sus hijas": {
-        "de": 1.0
+    "sus": {
+        "hijas": 0.25,
+        "criados": 0.25,
+        "hermanas": 0.5
     },
-    "de sus hijas mi": {
-        "sus": 1.0
+    "hijas": {
+        "mi": 0.5,
+        "a": 0.5
     },
-    "sus hijas mi querido": {
-        "hijas": 1.0
+    "mi": {
+        "querido": 0.6666666666666666,
+        "opinión": 0.3333333333333333
     },
-    "hijas mi querido señor": {
-        "mi": 1.0
+    "querido": {
+        "señor": 0.25,
+        "que": 0.25,
+        "por": 0.25,
+        "charles": 0.25
     },
-    "mi querido señor bennet": {
-        "querido": 1.0
+    "señor": {
+        "bennet": 0.6,
+        "morris;": 0.2,
+        "hurst": 0.2
     },
-    "querido señor bennet le": {
-        "señor": 1.0
+    "bennet": {
+        "le": 0.25,
+        "respondió": 0.25,
+        "no": 0.25,
+        "o": 0.25
     },
-    "señor bennet le dijo": {
-        "bennet": 1.0
+    "dijo": {
+        "un": 0.2,
+        "bingley": 0.2,
+        "darcy": 0.2,
+        "la": 0.4
     },
-    "bennet le dijo un": {
-        "le": 1.0
-    },
-    "le dijo un día": {
-        "dijo": 1.0
-    },
-    "dijo un día su": {
-        "un": 1.0
-    },
-    "un día su esposa": {
-        "día": 1.0
-    },
-    "día su esposa sabías": {
+    "día": {
         "su": 1.0
     },
-    "su esposa sabías que": {
-        "esposa": 1.0
-    },
-    "esposa sabías que por": {
-        "sabías": 1.0
-    },
-    "sabías que por fin": {
+    "sabías": {
         "que": 1.0
     },
-    "que por fin se": {
-        "por": 1.0
+    "por": {
+        "fin": 0.2,
+        "un": 0.2,
+        "supuesto": 0.2,
+        "primera": 0.2,
+        "medio": 0.2
     },
-    "por fin se ha": {
-        "fin": 1.0
-    },
-    "fin se ha alquilado": {
+    "fin": {
         "se": 1.0
     },
-    "se ha alquilado netherfield": {
-        "ha": 1.0
+    "ha": {
+        "alquilado": 0.3333333333333333,
+        "estado": 0.16666666666666666,
+        "contado": 0.16666666666666666,
+        "sido": 0.16666666666666666,
+        "crecido": 0.16666666666666666
     },
-    "ha alquilado netherfield park": {
-        "alquilado": 1.0
+    "alquilado": {
+        "netherfield": 0.3333333333333333,
+        "se": 0.3333333333333333,
+        "por": 0.3333333333333333
     },
-    "alquilado netherfield park el": {
-        "netherfield": 1.0
+    "netherfield": {
+        "park": 0.5,
+        "ha": 0.5
     },
-    "netherfield park el señor": {
-        "park": 1.0
-    },
-    "park el señor bennet": {
+    "park": {
         "el": 1.0
     },
-    "el señor bennet respondió": {
-        "señor": 1.0
+    "el": {
+        "señor": 0.25,
+        "lunes": 0.0625,
+        "lugar;": 0.0625,
+        "mismo": 0.0625,
+        "piano": 0.0625,
+        "adjetivo": 0.0625,
+        "tono": 0.0625,
+        "calificativo": 0.0625,
+        "desarrollo": 0.0625,
+        "salón": 0.0625,
+        "tema": 0.0625,
+        "campo": 0.0625,
+        "hermano": 0.0625
     },
-    "señor bennet respondió que": {
-        "bennet": 1.0
+    "respondió": {
+        "que": 0.5,
+        "darcy": 0.5
     },
-    "bennet respondió que no": {
-        "respondió": 1.0
+    "no": {
+        "pues": 0.041666666666666664,
+        "hizo": 0.041666666666666664,
+        "quieres": 0.041666666666666664,
+        "tengo": 0.041666666666666664,
+        "me": 0.08333333333333333,
+        "tardó": 0.08333333333333333,
+        "conozco": 0.041666666666666664,
+        "sepa": 0.041666666666666664,
+        "son": 0.041666666666666664,
+        "puedo": 0.041666666666666664,
+        "sobrepasa": 0.041666666666666664,
+        "merecería": 0.041666666666666664,
+        "prestasen": 0.041666666666666664,
+        "diré": 0.041666666666666664,
+        "dé": 0.041666666666666664,
+        "quedó": 0.041666666666666664,
+        "podía": 0.08333333333333333,
+        "servía": 0.041666666666666664,
+        "quiso": 0.041666666666666664,
+        "se": 0.08333333333333333
     },
-    "respondió que no pues": {
-        "que": 1.0
+    "pues": {
+        "así": 0.3333333333333333,
+        "sabrás": 0.3333333333333333,
+        "de": 0.3333333333333333
     },
-    "que no pues así": {
-        "no": 1.0
+    "así": {
+        "es": 0.5,
+        "nunca": 0.5
     },
-    "no pues así es": {
-        "pues": 1.0
-    },
-    "pues así es insistió": {
-        "así": 1.0
-    },
-    "así es insistió ella;": {
-        "es": 1.0
-    },
-    "es insistió ella; la": {
-        "insistió": 1.0
-    },
-    "insistió ella; la señora": {
+    "insistió": {
         "ella;": 1.0
     },
-    "ella; la señora long": {
+    "ella;": {
         "la": 1.0
     },
-    "la señora long ha": {
-        "señora": 1.0
+    "señora": {
+        "long": 0.6666666666666666,
+        "hurst": 0.3333333333333333
     },
-    "señora long ha estado": {
-        "long": 1.0
+    "long": {
+        "ha": 0.5,
+        "dice": 0.5
     },
-    "long ha estado aquí": {
-        "ha": 1.0
-    },
-    "ha estado aquí hace": {
-        "estado": 1.0
-    },
-    "estado aquí hace un": {
+    "estado": {
         "aquí": 1.0
     },
-    "aquí hace un momento": {
+    "aquí": {
         "hace": 1.0
     },
-    "hace un momento y": {
+    "hace": {
         "un": 1.0
     },
-    "un momento y me": {
-        "momento": 1.0
-    },
-    "momento y me lo": {
+    "momento": {
         "y": 1.0
     },
-    "y me lo ha": {
-        "me": 1.0
+    "me": {
+        "lo": 0.14285714285714285,
+        "divierte": 0.14285714285714285,
+        "guste": 0.14285714285714285,
+        "asombra": 0.14285714285714285,
+        "informara": 0.14285714285714285,
+        "sorprende": 0.14285714285714285,
+        "extraña": 0.14285714285714285
     },
-    "me lo ha contado": {
-        "lo": 1.0
-    },
-    "lo ha contado todo": {
-        "ha": 1.0
-    },
-    "ha contado todo el": {
-        "contado": 1.0
-    },
-    "contado todo el señor": {
+    "contado": {
         "todo": 1.0
     },
-    "todo el señor bennet": {
-        "el": 1.0
+    "todo": {
+        "el": 0.25,
+        "esto": 0.5,
+        "lo": 0.25
     },
-    "el señor bennet no": {
-        "señor": 1.0
-    },
-    "señor bennet no hizo": {
-        "bennet": 1.0
-    },
-    "bennet no hizo ademán": {
-        "no": 1.0
-    },
-    "no hizo ademán de": {
-        "hizo": 1.0
-    },
-    "hizo ademán de contestar": {
+    "hizo": {
         "ademán": 1.0
     },
-    "ademán de contestar no": {
+    "ademán": {
         "de": 1.0
     },
-    "de contestar no quieres": {
-        "contestar": 1.0
-    },
-    "contestar no quieres saber": {
+    "contestar": {
         "no": 1.0
     },
-    "no quieres saber quién": {
-        "quieres": 1.0
+    "quieres": {
+        "saber": 0.5,
+        "contármelo": 0.5
     },
-    "quieres saber quién lo": {
-        "saber": 1.0
-    },
-    "saber quién lo ha": {
+    "saber": {
         "quién": 1.0
     },
-    "quién lo ha alquilado": {
+    "quién": {
         "lo": 1.0
     },
-    "lo ha alquilado se": {
-        "ha": 1.0
-    },
-    "ha alquilado se impacientó": {
-        "alquilado": 1.0
-    },
-    "alquilado se impacientó su": {
-        "se": 1.0
-    },
-    "se impacientó su esposa": {
-        "impacientó": 1.0
-    },
-    "impacientó su esposa eres": {
+    "impacientó": {
         "su": 1.0
     },
-    "su esposa eres tú": {
-        "esposa": 1.0
-    },
-    "esposa eres tú la": {
-        "eres": 1.0
-    },
-    "eres tú la que": {
+    "eres": {
         "tú": 1.0
     },
-    "tú la que quieres": {
+    "tú": {
         "la": 1.0
     },
-    "la que quieres contármelo": {
-        "que": 1.0
-    },
-    "que quieres contármelo y": {
-        "quieres": 1.0
-    },
-    "quieres contármelo y yo": {
-        "contármelo": 1.0
-    },
-    "contármelo y yo no": {
+    "contármelo": {
         "y": 1.0
     },
-    "y yo no tengo": {
-        "yo": 1.0
+    "yo": {
+        "no": 0.25,
+        "creo": 0.25,
+        "desde": 0.25,
+        "nunca": 0.25
     },
-    "yo no tengo inconveniente": {
-        "no": 1.0
+    "tengo": {
+        "inconveniente": 0.5,
+        "de": 0.5
     },
-    "no tengo inconveniente en": {
-        "tengo": 1.0
-    },
-    "tengo inconveniente en oírlo": {
-        "inconveniente": 1.0
-    },
-    "inconveniente en oírlo esta": {
+    "inconveniente": {
         "en": 1.0
     },
-    "en oírlo esta sugerencia": {
-        "oírlo": 1.0
-    },
-    "oírlo esta sugerencia le": {
+    "oírlo": {
         "esta": 1.0
     },
-    "esta sugerencia le fue": {
-        "sugerencia": 1.0
-    },
-    "sugerencia le fue suficiente": {
+    "sugerencia": {
         "le": 1.0
     },
-    "le fue suficiente pues": {
-        "fue": 1.0
-    },
-    "fue suficiente pues sabrás": {
+    "fue": {
         "suficiente": 1.0
     },
-    "suficiente pues sabrás querido": {
+    "suficiente": {
         "pues": 1.0
     },
-    "pues sabrás querido que": {
-        "sabrás": 1.0
-    },
-    "sabrás querido que la": {
+    "sabrás": {
         "querido": 1.0
     },
-    "querido que la señora": {
+    "dice": {
         "que": 1.0
     },
-    "que la señora long": {
-        "la": 1.0
-    },
-    "la señora long dice": {
-        "señora": 1.0
-    },
-    "señora long dice que": {
-        "long": 1.0
-    },
-    "long dice que netherfield": {
-        "dice": 1.0
-    },
-    "dice que netherfield ha": {
-        "que": 1.0
-    },
-    "que netherfield ha sido": {
-        "netherfield": 1.0
-    },
-    "netherfield ha sido alquilado": {
-        "ha": 1.0
-    },
-    "ha sido alquilado por": {
-        "sido": 1.0
-    },
-    "sido alquilado por un": {
+    "sido": {
         "alquilado": 1.0
     },
-    "alquilado por un joven": {
-        "por": 1.0
-    },
-    "por un joven muy": {
-        "un": 1.0
-    },
-    "un joven muy rico": {
-        "joven": 1.0
-    },
-    "joven muy rico del": {
+    "joven": {
         "muy": 1.0
     },
-    "muy rico del norte": {
-        "rico": 1.0
+    "muy": {
+        "rico": 0.25,
+        "exigente": 0.5,
+        "afligidas": 0.25
     },
-    "rico del norte de": {
+    "rico": {
         "del": 1.0
     },
-    "del norte de inglaterra;": {
+    "del": {
         "norte": 1.0
     },
-    "norte de inglaterra; que": {
+    "norte": {
         "de": 1.0
     },
-    "de inglaterra; que vino": {
-        "inglaterra;": 1.0
-    },
-    "inglaterra; que vino el": {
+    "inglaterra;": {
         "que": 1.0
     },
-    "que vino el lunes": {
-        "vino": 1.0
-    },
-    "vino el lunes en": {
+    "vino": {
         "el": 1.0
     },
-    "el lunes en un": {
-        "lunes": 1.0
-    },
-    "lunes en un landó": {
+    "lunes": {
         "en": 1.0
     },
-    "en un landó de": {
-        "un": 1.0
-    },
-    "un landó de cuatro": {
-        "landó": 1.0
-    },
-    "landó de cuatro caballos": {
+    "landó": {
         "de": 1.0
     },
-    "de cuatro caballos para": {
-        "cuatro": 1.0
+    "cuatro": {
+        "caballos": 0.5,
+        "o": 0.5
     },
-    "cuatro caballos para ver": {
-        "caballos": 1.0
-    },
-    "caballos para ver el": {
+    "caballos": {
         "para": 1.0
     },
-    "para ver el lugar;": {
-        "ver": 1.0
+    "para": {
+        "ver": 0.08333333333333333,
+        "nuestras": 0.08333333333333333,
+        "poder": 0.08333333333333333,
+        "observar": 0.08333333333333333,
+        "su": 0.08333333333333333,
+        "aprender": 0.08333333333333333,
+        "cautivar": 0.08333333333333333,
+        "continuar": 0.08333333333333333,
+        "decirles": 0.08333333333333333,
+        "nada": 0.08333333333333333,
+        "que": 0.16666666666666666
     },
-    "ver el lugar; y": {
-        "el": 1.0
+    "ver": {
+        "el": 0.5,
+        "con": 0.5
     },
-    "el lugar; y que": {
-        "lugar;": 1.0
-    },
-    "lugar; y que se": {
+    "lugar;": {
         "y": 1.0
     },
-    "y que se quedó": {
-        "que": 1.0
+    "quedó": {
+        "tan": 0.5,
+        "lo": 0.5
     },
-    "que se quedó tan": {
-        "se": 1.0
-    },
-    "se quedó tan encantado": {
-        "quedó": 1.0
-    },
-    "quedó tan encantado con": {
-        "tan": 1.0
-    },
-    "tan encantado con él": {
-        "encantado": 1.0
-    },
-    "encantado con él que": {
+    "encantado": {
         "con": 1.0
     },
-    "con él que inmediatamente": {
-        "él": 1.0
+    "con": {
+        "él": 0.125,
+        "el": 0.25,
+        "su": 0.125,
+        "muchos": 0.125,
+        "la": 0.25,
+        "ellos": 0.125
     },
-    "él que inmediatamente llegó": {
+    "él": {
         "que": 1.0
     },
-    "que inmediatamente llegó a": {
-        "inmediatamente": 1.0
+    "inmediatamente": {
+        "llegó": 0.5,
+        "al": 0.5
     },
-    "inmediatamente llegó a un": {
-        "llegó": 1.0
-    },
-    "llegó a un acuerdo": {
+    "llegó": {
         "a": 1.0
     },
-    "a un acuerdo con": {
-        "un": 1.0
+    "acuerdo": {
+        "con": 0.5,
+        "contigo": 0.5
     },
-    "un acuerdo con el": {
-        "acuerdo": 1.0
-    },
-    "acuerdo con el señor": {
-        "con": 1.0
-    },
-    "con el señor morris;": {
-        "el": 1.0
-    },
-    "el señor morris; que": {
-        "señor": 1.0
-    },
-    "señor morris; que antes": {
-        "morris;": 1.0
-    },
-    "morris; que antes de": {
+    "morris;": {
         "que": 1.0
     },
-    "que antes de san": {
-        "antes": 1.0
-    },
-    "antes de san miguel": {
+    "antes": {
         "de": 1.0
     },
-    "de san miguel vendrá": {
-        "san": 1.0
-    },
-    "san miguel vendrá a": {
+    "san": {
         "miguel": 1.0
     },
-    "miguel vendrá a ocuparlo;": {
+    "miguel": {
         "vendrá": 1.0
     },
-    "vendrá a ocuparlo; y": {
+    "vendrá": {
         "a": 1.0
     },
-    "a ocuparlo; y que": {
-        "ocuparlo;": 1.0
-    },
-    "ocuparlo; y que algunos": {
+    "ocuparlo;": {
         "y": 1.0
     },
-    "y que algunos de": {
-        "que": 1.0
-    },
-    "que algunos de sus": {
-        "algunos": 1.0
-    },
-    "algunos de sus criados": {
+    "algunos": {
         "de": 1.0
     },
-    "de sus criados estarán": {
-        "sus": 1.0
-    },
-    "sus criados estarán en": {
-        "criados": 1.0
-    },
-    "criados estarán en la": {
+    "criados": {
         "estarán": 1.0
     },
-    "estarán en la casa": {
+    "estarán": {
         "en": 1.0
     },
-    "en la casa a": {
-        "la": 1.0
-    },
-    "la casa a finales": {
-        "casa": 1.0
-    },
-    "casa a finales de": {
+    "casa": {
         "a": 1.0
     },
-    "a finales de la": {
-        "finales": 1.0
-    },
-    "finales de la semana": {
+    "finales": {
         "de": 1.0
     },
-    "de la semana que": {
-        "la": 1.0
-    },
-    "la semana que viene": {
-        "semana": 1.0
-    },
-    "semana que viene cómo": {
+    "semana": {
         "que": 1.0
     },
-    "que viene cómo se": {
-        "viene": 1.0
-    },
-    "viene cómo se llama": {
+    "viene": {
         "cómo": 1.0
     },
-    "cómo se llama bingley": {
+    "cómo": {
         "se": 1.0
     },
-    "se llama bingley está": {
-        "llama": 1.0
-    },
-    "llama bingley está casado": {
+    "llama": {
         "bingley": 1.0
     },
-    "bingley está casado o": {
-        "está": 1.0
+    "bingley": {
+        "está": 0.09090909090909091,
+        "y": 0.09090909090909091,
+        "será": 0.09090909090909091,
+        "que": 0.09090909090909091,
+        "entonces": 0.09090909090909091,
+        "protestaron": 0.09090909090909091,
+        "cuando": 0.09090909090909091,
+        "no": 0.18181818181818182,
+        "decidió": 0.09090909090909091,
+        "estaba": 0.09090909090909091
     },
-    "está casado o soltero": {
-        "casado": 1.0
-    },
-    "casado o soltero oh": {
+    "casado": {
         "o": 1.0
     },
-    "o soltero oh soltero": {
-        "soltero": 1.0
+    "o": {
+        "soltero": 0.25,
+        "cinco": 0.25,
+        "más": 0.25,
+        "forrar": 0.25
     },
-    "soltero oh soltero querido": {
-        "oh": 1.0
+    "oh": {
+        "soltero": 0.5,
+        "desde": 0.5
     },
-    "oh soltero querido por": {
-        "soltero": 1.0
-    },
-    "soltero querido por supuesto": {
-        "querido": 1.0
-    },
-    "querido por supuesto un": {
-        "por": 1.0
-    },
-    "por supuesto un hombre": {
-        "supuesto": 1.0
-    },
-    "supuesto un hombre soltero": {
+    "supuesto": {
         "un": 1.0
     },
-    "un hombre soltero y": {
-        "hombre": 1.0
-    },
-    "hombre soltero y de": {
-        "soltero": 1.0
-    },
-    "soltero y de gran": {
-        "y": 1.0
-    },
-    "y de gran fortuna;": {
-        "de": 1.0
-    },
-    "de gran fortuna; cuatro": {
-        "gran": 1.0
-    },
-    "gran fortuna; cuatro o": {
-        "fortuna;": 1.0
-    },
-    "fortuna; cuatro o cinco": {
+    "fortuna;": {
         "cuatro": 1.0
     },
-    "cuatro o cinco mil": {
-        "o": 1.0
-    },
-    "o cinco mil libras": {
-        "cinco": 1.0
-    },
-    "cinco mil libras al": {
+    "cinco": {
         "mil": 1.0
     },
-    "mil libras al año": {
+    "mil": {
         "libras": 1.0
     },
-    "libras al año qué": {
+    "libras": {
         "al": 1.0
     },
-    "al año qué buen": {
-        "año": 1.0
+    "al": {
+        "año": 0.14285714285714285,
+        "orden": 0.14285714285714285,
+        "juego": 0.14285714285714285,
+        "sexo": 0.14285714285714285,
+        "suyo": 0.14285714285714285,
+        "doctor": 0.2857142857142857
     },
-    "año qué buen partido": {
+    "año": {
         "qué": 1.0
     },
-    "qué buen partido para": {
-        "buen": 1.0
+    "qué": {
+        "buen": 0.16666666666666666,
+        "ganas": 0.16666666666666666,
+        "figura": 0.16666666666666666,
+        "modales": 0.16666666666666666,
+        "talento": 0.16666666666666666,
+        "dices": 0.16666666666666666
     },
-    "buen partido para nuestras": {
+    "buen": {
         "partido": 1.0
     },
-    "partido para nuestras hijas": {
+    "partido": {
         "para": 1.0
     },
-    "para nuestras hijas a": {
-        "nuestras": 1.0
-    },
-    "nuestras hijas a mí": {
+    "nuestras": {
         "hijas": 1.0
     },
-    "hijas a mí no": {
-        "a": 1.0
-    },
-    "a mí no me": {
-        "mí": 1.0
-    },
-    "mí no me divierte": {
+    "mí": {
         "no": 1.0
     },
-    "no me divierte toser": {
-        "me": 1.0
-    },
-    "me divierte toser replicó": {
-        "divierte": 1.0
-    },
-    "divierte toser replicó kitty": {
+    "divierte": {
         "toser": 1.0
     },
-    "toser replicó kitty quejándose": {
+    "toser": {
         "replicó": 1.0
     },
-    "replicó kitty quejándose ya": {
+    "replicó": {
         "kitty": 1.0
     },
-    "kitty quejándose ya lo": {
+    "kitty": {
         "quejándose": 1.0
     },
-    "quejándose ya lo creo": {
-        "ya": 1.0
+    "quejándose": {
+        "ya": 0.5,
+        "amargamente": 0.5
     },
-    "ya lo creo que": {
-        "lo": 1.0
+    "ya": {
+        "lo": 0.5,
+        "tan": 0.5
     },
-    "lo creo que lo": {
-        "creo": 1.0
-    },
-    "creo que lo haría": {
+    "creo": {
         "que": 1.0
     },
-    "que lo haría y": {
-        "lo": 1.0
-    },
-    "lo haría y compraría": {
-        "haría": 1.0
-    },
-    "haría y compraría el": {
+    "haría": {
         "y": 1.0
     },
-    "y compraría el mismo": {
-        "compraría": 1.0
-    },
-    "compraría el mismo pemberley": {
+    "compraría": {
         "el": 1.0
     },
-    "el mismo pemberley si": {
-        "mismo": 1.0
-    },
-    "mismo pemberley si darcy": {
+    "mismo": {
         "pemberley": 1.0
     },
-    "pemberley si darcy lo": {
-        "si": 1.0
+    "pemberley": {
+        "si": 0.5,
+        "comprándolo": 0.5
     },
-    "si darcy lo vendiera": {
-        "darcy": 1.0
+    "si": {
+        "darcy": 0.3333333333333333,
+        "no": 0.3333333333333333,
+        "jane": 0.3333333333333333
     },
-    "darcy lo vendiera hablo": {
-        "lo": 1.0
+    "darcy": {
+        "lo": 0.2,
+        "desde": 0.2,
+        "tiene": 0.2,
+        "y": 0.2,
+        "a": 0.2
     },
-    "lo vendiera hablo de": {
-        "vendiera": 1.0
-    },
-    "vendiera hablo de posibilidades": {
+    "vendiera": {
         "hablo": 1.0
     },
-    "hablo de posibilidades charles": {
+    "hablo": {
         "de": 1.0
     },
-    "de posibilidades charles sinceramente": {
-        "posibilidades": 1.0
-    },
-    "posibilidades charles sinceramente caroline": {
+    "posibilidades": {
         "charles": 1.0
     },
-    "charles sinceramente caroline preferiría": {
-        "sinceramente": 1.0
+    "charles": {
+        "sinceramente": 0.5,
+        "qué": 0.5
     },
-    "sinceramente caroline preferiría conseguir": {
+    "sinceramente": {
         "caroline": 1.0
     },
-    "caroline preferiría conseguir pemberley": {
+    "caroline": {
         "preferiría": 1.0
     },
-    "preferiría conseguir pemberley comprándolo": {
+    "preferiría": {
         "conseguir": 1.0
     },
-    "conseguir pemberley comprándolo que": {
+    "conseguir": {
         "pemberley": 1.0
     },
-    "pemberley comprándolo que imitándolo": {
-        "comprándolo": 1.0
-    },
-    "comprándolo que imitándolo elizabeth": {
+    "comprándolo": {
         "que": 1.0
     },
-    "que imitándolo elizabeth estaba": {
-        "imitándolo": 1.0
-    },
-    "imitándolo elizabeth estaba demasiado": {
+    "imitándolo": {
         "elizabeth": 1.0
     },
-    "elizabeth estaba demasiado absorta": {
-        "estaba": 1.0
+    "elizabeth": {
+        "estaba": 0.14285714285714285,
+        "bennet": 0.14285714285714285,
+        "debe": 0.14285714285714285,
+        "no": 0.2857142857142857,
+        "dijo": 0.14285714285714285,
+        "se": 0.14285714285714285
     },
-    "estaba demasiado absorta en": {
-        "demasiado": 1.0
+    "estaba": {
+        "demasiado": 0.3333333333333333,
+        "peor": 0.3333333333333333,
+        "bastante": 0.3333333333333333
     },
-    "demasiado absorta en lo": {
+    "demasiado": {
         "absorta": 1.0
     },
-    "absorta en lo que": {
+    "absorta": {
         "en": 1.0
     },
-    "en lo que ocurría": {
-        "lo": 1.0
-    },
-    "lo que ocurría para": {
-        "que": 1.0
-    },
-    "que ocurría para poder": {
-        "ocurría": 1.0
-    },
-    "ocurría para poder prestar": {
+    "ocurría": {
         "para": 1.0
     },
-    "para poder prestar la": {
-        "poder": 1.0
-    },
-    "poder prestar la menor": {
+    "poder": {
         "prestar": 1.0
     },
-    "prestar la menor atención": {
+    "prestar": {
         "la": 1.0
     },
-    "la menor atención a": {
-        "menor": 1.0
-    },
-    "menor atención a su": {
+    "menor": {
         "atención": 1.0
     },
-    "atención a su libro;": {
-        "a": 1.0
+    "atención": {
+        "a": 0.3333333333333333,
+        "al": 0.3333333333333333,
+        "posible": 0.3333333333333333
     },
-    "a su libro; no": {
-        "su": 1.0
-    },
-    "su libro; no tardó": {
-        "libro;": 1.0
-    },
-    "libro; no tardó en": {
+    "libro;": {
         "no": 1.0
     },
-    "no tardó en abandonarlo": {
-        "tardó": 1.0
-    },
-    "tardó en abandonarlo se": {
+    "tardó": {
         "en": 1.0
     },
-    "en abandonarlo se acercó": {
-        "abandonarlo": 1.0
-    },
-    "abandonarlo se acercó a": {
+    "abandonarlo": {
         "se": 1.0
     },
-    "se acercó a la": {
-        "acercó": 1.0
-    },
-    "acercó a la mesa": {
+    "acercó": {
         "a": 1.0
     },
-    "a la mesa de": {
-        "la": 1.0
-    },
-    "la mesa de juego": {
-        "mesa": 1.0
-    },
-    "mesa de juego y": {
+    "mesa": {
         "de": 1.0
     },
-    "de juego y se": {
-        "juego": 1.0
+    "juego": {
+        "y": 0.5,
+        "como": 0.5
     },
-    "juego y se colocó": {
-        "y": 1.0
-    },
-    "y se colocó entre": {
-        "se": 1.0
-    },
-    "se colocó entre bingley": {
-        "colocó": 1.0
-    },
-    "colocó entre bingley y": {
+    "colocó": {
         "entre": 1.0
     },
-    "entre bingley y su": {
+    "entre": {
         "bingley": 1.0
     },
-    "bingley y su hermana": {
-        "y": 1.0
+    "hermana": {
+        "mayor": 0.5,
+        "estaba": 0.5
     },
-    "y su hermana mayor": {
-        "su": 1.0
-    },
-    "su hermana mayor para": {
-        "hermana": 1.0
-    },
-    "hermana mayor para observar": {
-        "mayor": 1.0
-    },
-    "mayor para observar la": {
+    "mayor": {
         "para": 1.0
     },
-    "para observar la partida": {
-        "observar": 1.0
-    },
-    "observar la partida ha": {
+    "observar": {
         "la": 1.0
     },
-    "la partida ha crecido": {
-        "partida": 1.0
-    },
-    "partida ha crecido la": {
+    "partida": {
         "ha": 1.0
     },
-    "ha crecido la señorita": {
-        "crecido": 1.0
-    },
-    "crecido la señorita darcy": {
+    "crecido": {
         "la": 1.0
     },
-    "la señorita darcy desde": {
-        "señorita": 1.0
+    "señorita": {
+        "darcy": 0.14285714285714285,
+        "bingley": 0.7142857142857143,
+        "elizabeth": 0.14285714285714285
     },
-    "señorita darcy desde la": {
-        "darcy": 1.0
+    "desde": {
+        "la": 0.3333333333333333,
+        "luego": 0.6666666666666666
     },
-    "darcy desde la primavera": {
-        "desde": 1.0
-    },
-    "desde la primavera preguntó": {
-        "la": 1.0
-    },
-    "la primavera preguntó la": {
-        "primavera": 1.0
-    },
-    "primavera preguntó la señorita": {
+    "primavera": {
         "preguntó": 1.0
     },
-    "preguntó la señorita bingley": {
+    "preguntó": {
         "la": 1.0
     },
-    "la señorita bingley será": {
-        "señorita": 1.0
+    "será": {
+        "ya": 0.5,
+        "de": 0.5
     },
-    "señorita bingley será ya": {
-        "bingley": 1.0
+    "alta": {
+        "como": 0.5,
+        "qué": 0.5
     },
-    "bingley será ya tan": {
-        "será": 1.0
+    "como": {
+        "yo": 0.2,
+        "lo": 0.2,
+        "usted": 0.2,
+        "la": 0.2,
+        "para": 0.2
     },
-    "será ya tan alta": {
-        "ya": 1.0
+    "sí": {
+        "ahora": 0.3333333333333333,
+        "todas": 0.3333333333333333,
+        "es": 0.3333333333333333
     },
-    "ya tan alta como": {
-        "tan": 1.0
+    "ahora": {
+        "será": 0.5,
+        "que": 0.5
     },
-    "tan alta como yo": {
-        "alta": 1.0
-    },
-    "alta como yo creo": {
-        "como": 1.0
-    },
-    "como yo creo que": {
-        "yo": 1.0
-    },
-    "yo creo que sí": {
-        "creo": 1.0
-    },
-    "creo que sí ahora": {
-        "que": 1.0
-    },
-    "que sí ahora será": {
-        "sí": 1.0
-    },
-    "sí ahora será de": {
-        "ahora": 1.0
-    },
-    "ahora será de la": {
-        "será": 1.0
-    },
-    "será de la estatura": {
+    "estatura": {
         "de": 1.0
     },
-    "de la estatura de": {
-        "la": 1.0
+    "más": {
+        "alta": 0.16666666666666666,
+        "que": 0.3333333333333333,
+        "sustancial": 0.16666666666666666,
+        "eminentes": 0.16666666666666666,
+        "tarde": 0.16666666666666666
     },
-    "la estatura de la": {
-        "estatura": 1.0
-    },
-    "estatura de la señorita": {
-        "de": 1.0
-    },
-    "de la señorita elizabeth": {
-        "la": 1.0
-    },
-    "la señorita elizabeth bennet": {
-        "señorita": 1.0
-    },
-    "señorita elizabeth bennet o": {
-        "elizabeth": 1.0
-    },
-    "elizabeth bennet o más": {
-        "bennet": 1.0
-    },
-    "bennet o más alta": {
-        "o": 1.0
-    },
-    "o más alta qué": {
-        "más": 1.0
-    },
-    "más alta qué ganas": {
-        "alta": 1.0
-    },
-    "alta qué ganas tengo": {
-        "qué": 1.0
-    },
-    "qué ganas tengo de": {
-        "ganas": 1.0
-    },
-    "ganas tengo de volver": {
+    "ganas": {
         "tengo": 1.0
     },
-    "tengo de volver a": {
-        "de": 1.0
-    },
-    "de volver a verla": {
-        "volver": 1.0
-    },
-    "volver a verla nunca": {
+    "volver": {
         "a": 1.0
     },
-    "a verla nunca he": {
-        "verla": 1.0
-    },
-    "verla nunca he conocido": {
+    "verla": {
         "nunca": 1.0
     },
-    "nunca he conocido a": {
+    "nunca": {
         "he": 1.0
     },
-    "he conocido a nadie": {
-        "conocido": 1.0
+    "he": {
+        "conocido": 0.4,
+        "oído": 0.2,
+        "visto": 0.4
     },
-    "conocido a nadie que": {
-        "a": 1.0
+    "conocido": {
+        "a": 0.5,
+        "no": 0.5
     },
-    "a nadie que me": {
-        "nadie": 1.0
+    "nadie": {
+        "que": 0.5,
+        "puede": 0.5
     },
-    "nadie que me guste": {
-        "que": 1.0
-    },
-    "que me guste tanto": {
-        "me": 1.0
-    },
-    "me guste tanto qué": {
-        "guste": 1.0
-    },
-    "guste tanto qué figura": {
+    "guste": {
         "tanto": 1.0
     },
-    "tanto qué figura qué": {
+    "tanto": {
+        "qué": 0.3333333333333333,
+        "y": 0.3333333333333333,
+        "gusto": 0.3333333333333333
+    },
+    "figura": {
         "qué": 1.0
     },
-    "qué figura qué modales": {
-        "figura": 1.0
-    },
-    "figura qué modales y": {
-        "qué": 1.0
-    },
-    "qué modales y qué": {
-        "modales": 1.0
-    },
-    "modales y qué talento": {
+    "modales": {
         "y": 1.0
     },
-    "y qué talento para": {
-        "qué": 1.0
-    },
-    "qué talento para su": {
-        "talento": 1.0
-    },
-    "talento para su edad": {
+    "talento": {
         "para": 1.0
     },
-    "para su edad toca": {
-        "su": 1.0
-    },
-    "su edad toca el": {
-        "edad": 1.0
-    },
-    "edad toca el piano": {
+    "edad": {
         "toca": 1.0
     },
-    "toca el piano de": {
+    "toca": {
         "el": 1.0
     },
-    "el piano de un": {
-        "piano": 1.0
-    },
-    "piano de un modo": {
+    "piano": {
         "de": 1.0
     },
-    "de un modo exquisito": {
-        "un": 1.0
+    "modo": {
+        "exquisito": 0.5,
+        "de": 0.5
     },
-    "un modo exquisito me": {
-        "modo": 1.0
-    },
-    "modo exquisito me asombra": {
-        "exquisito": 1.0
-    },
-    "exquisito me asombra dijo": {
+    "exquisito": {
         "me": 1.0
     },
-    "me asombra dijo bingley": {
-        "asombra": 1.0
-    },
-    "asombra dijo bingley que": {
+    "asombra": {
         "dijo": 1.0
     },
-    "dijo bingley que las": {
-        "bingley": 1.0
+    "jóvenes": {
+        "tengan": 0.5,
+        "perfectas": 0.5
     },
-    "bingley que las jóvenes": {
-        "que": 1.0
-    },
-    "que las jóvenes tengan": {
-        "las": 1.0
-    },
-    "las jóvenes tengan tanta": {
-        "jóvenes": 1.0
-    },
-    "jóvenes tengan tanta paciencia": {
-        "tengan": 1.0
-    },
-    "tengan tanta paciencia para": {
+    "tengan": {
         "tanta": 1.0
     },
-    "tanta paciencia para aprender": {
-        "paciencia": 1.0
+    "tanta": {
+        "paciencia": 0.25,
+        "capacidad": 0.25,
+        "aplicación": 0.25,
+        "elegancia": 0.25
     },
-    "paciencia para aprender tanto": {
+    "paciencia": {
         "para": 1.0
     },
-    "para aprender tanto y": {
-        "aprender": 1.0
-    },
-    "aprender tanto y lleguen": {
+    "aprender": {
         "tanto": 1.0
     },
-    "tanto y lleguen a": {
-        "y": 1.0
-    },
-    "y lleguen a ser": {
-        "lleguen": 1.0
-    },
-    "lleguen a ser tan": {
+    "lleguen": {
         "a": 1.0
     },
-    "a ser tan perfectas": {
-        "ser": 1.0
+    "ser": {
+        "tan": 0.5,
+        "que": 0.5
     },
-    "ser tan perfectas como": {
-        "tan": 1.0
+    "perfectas": {
+        "como": 0.25,
+        "mi": 0.25,
+        "ni": 0.25,
+        "lo": 0.25
     },
-    "tan perfectas como lo": {
-        "perfectas": 1.0
+    "son": {
+        "todas": 0.5,
+        "otros": 0.5
     },
-    "perfectas como lo son": {
-        "como": 1.0
+    "todas": {
+        "todas": 0.2857142857142857,
+        "las": 0.42857142857142855,
+        "pintan": 0.14285714285714285,
+        "estas": 0.14285714285714285
     },
-    "como lo son todas": {
-        "lo": 1.0
-    },
-    "lo son todas todas": {
-        "son": 1.0
-    },
-    "son todas todas las": {
-        "todas": 1.0
-    },
-    "todas todas las jóvenes": {
-        "todas": 1.0
-    },
-    "todas las jóvenes perfectas": {
-        "las": 1.0
-    },
-    "las jóvenes perfectas mi": {
-        "jóvenes": 1.0
-    },
-    "jóvenes perfectas mi querido": {
-        "perfectas": 1.0
-    },
-    "perfectas mi querido charles": {
-        "mi": 1.0
-    },
-    "mi querido charles qué": {
-        "querido": 1.0
-    },
-    "querido charles qué dices": {
-        "charles": 1.0
-    },
-    "charles qué dices sí": {
-        "qué": 1.0
-    },
-    "qué dices sí todas": {
-        "dices": 1.0
-    },
-    "dices sí todas todas": {
+    "dices": {
         "sí": 1.0
     },
-    "sí todas todas pintan": {
-        "todas": 1.0
-    },
-    "todas todas pintan forran": {
-        "todas": 1.0
-    },
-    "todas pintan forran biombos": {
-        "pintan": 1.0
-    },
-    "pintan forran biombos y": {
+    "pintan": {
         "forran": 1.0
     },
-    "forran biombos y hacen": {
+    "forran": {
         "biombos": 1.0
     },
-    "biombos y hacen bolsitas": {
-        "y": 1.0
+    "biombos": {
+        "y": 0.5,
+        "pero": 0.5
     },
-    "y hacen bolsitas de": {
-        "hacen": 1.0
-    },
-    "hacen bolsitas de malla": {
+    "hacen": {
         "bolsitas": 1.0
     },
-    "bolsitas de malla no": {
+    "bolsitas": {
         "de": 1.0
     },
-    "de malla no conozco": {
-        "malla": 1.0
+    "malla": {
+        "no": 0.5,
+        "o": 0.5
     },
-    "malla no conozco a": {
-        "no": 1.0
-    },
-    "no conozco a ninguna": {
-        "conozco": 1.0
-    },
-    "conozco a ninguna que": {
+    "conozco": {
         "a": 1.0
     },
-    "a ninguna que no": {
-        "ninguna": 1.0
-    },
-    "ninguna que no sepa": {
+    "ninguna": {
         "que": 1.0
     },
-    "que no sepa hacer": {
-        "no": 1.0
-    },
-    "no sepa hacer todas": {
-        "sepa": 1.0
-    },
-    "sepa hacer todas estas": {
+    "sepa": {
         "hacer": 1.0
     },
-    "hacer todas estas cosas": {
-        "todas": 1.0
+    "hacer": {
+        "todas": 0.5,
+        "bolsos": 0.5
     },
-    "todas estas cosas y": {
-        "estas": 1.0
-    },
-    "estas cosas y nunca": {
+    "estas": {
         "cosas": 1.0
     },
-    "cosas y nunca he": {
+    "cosas": {
         "y": 1.0
     },
-    "y nunca he oído": {
-        "nunca": 1.0
-    },
-    "nunca he oído hablar": {
-        "he": 1.0
-    },
-    "he oído hablar de": {
-        "oído": 1.0
-    },
-    "oído hablar de una": {
+    "oído": {
         "hablar": 1.0
     },
-    "hablar de una damita": {
+    "hablar": {
         "de": 1.0
     },
-    "de una damita por": {
-        "una": 1.0
-    },
-    "una damita por primera": {
-        "damita": 1.0
-    },
-    "damita por primera vez": {
+    "damita": {
         "por": 1.0
     },
-    "por primera vez sin": {
-        "primera": 1.0
-    },
-    "primera vez sin que": {
+    "primera": {
         "vez": 1.0
     },
-    "vez sin que se": {
+    "vez": {
         "sin": 1.0
     },
-    "sin que se me": {
-        "que": 1.0
-    },
-    "que se me informara": {
-        "se": 1.0
-    },
-    "se me informara de": {
-        "me": 1.0
-    },
-    "me informara de que": {
-        "informara": 1.0
-    },
-    "informara de que era": {
+    "informara": {
         "de": 1.0
     },
-    "de que era perfecta": {
-        "que": 1.0
-    },
-    "que era perfecta tu": {
-        "era": 1.0
-    },
-    "era perfecta tu lista": {
+    "era": {
         "perfecta": 1.0
     },
-    "perfecta tu lista de": {
-        "tu": 1.0
+    "perfecta": {
+        "tu": 0.5,
+        "es": 0.5
     },
-    "tu lista de lo": {
-        "lista": 1.0
+    "tu": {
+        "lista": 0.5,
+        "estimación": 0.5
     },
-    "lista de lo que": {
+    "lista": {
         "de": 1.0
     },
-    "de lo que abarcan": {
-        "lo": 1.0
-    },
-    "lo que abarcan comúnmente": {
-        "que": 1.0
-    },
-    "que abarcan comúnmente esas": {
-        "abarcan": 1.0
-    },
-    "abarcan comúnmente esas perfecciones": {
+    "abarcan": {
         "comúnmente": 1.0
     },
-    "comúnmente esas perfecciones dijo": {
+    "comúnmente": {
         "esas": 1.0
     },
-    "esas perfecciones dijo darcy": {
-        "perfecciones": 1.0
+    "esas": {
+        "perfecciones": 0.5,
+        "muchachas": 0.5
     },
-    "perfecciones dijo darcy tiene": {
+    "perfecciones": {
         "dijo": 1.0
     },
-    "dijo darcy tiene mucho": {
-        "darcy": 1.0
-    },
-    "darcy tiene mucho de": {
-        "tiene": 1.0
-    },
-    "tiene mucho de verdad": {
+    "tiene": {
         "mucho": 1.0
     },
-    "mucho de verdad el": {
-        "de": 1.0
+    "mucho": {
+        "de": 0.6666666666666666,
+        "lo": 0.3333333333333333
     },
-    "de verdad el adjetivo": {
-        "verdad": 1.0
-    },
-    "verdad el adjetivo se": {
-        "el": 1.0
-    },
-    "el adjetivo se aplica": {
-        "adjetivo": 1.0
-    },
-    "adjetivo se aplica a": {
+    "adjetivo": {
         "se": 1.0
     },
-    "se aplica a mujeres": {
-        "aplica": 1.0
-    },
-    "aplica a mujeres cuyos": {
+    "aplica": {
         "a": 1.0
     },
-    "a mujeres cuyos conocimientos": {
-        "mujeres": 1.0
+    "mujeres": {
+        "cuyos": 0.3333333333333333,
+        "perfectas": 0.3333333333333333,
+        "que": 0.3333333333333333
     },
-    "mujeres cuyos conocimientos no": {
-        "cuyos": 1.0
-    },
-    "cuyos conocimientos no son": {
+    "cuyos": {
         "conocimientos": 1.0
     },
-    "conocimientos no son otros": {
+    "conocimientos": {
         "no": 1.0
     },
-    "no son otros que": {
-        "son": 1.0
-    },
-    "son otros que hacer": {
-        "otros": 1.0
-    },
-    "otros que hacer bolsos": {
+    "otros": {
         "que": 1.0
     },
-    "que hacer bolsos de": {
-        "hacer": 1.0
-    },
-    "hacer bolsos de malla": {
-        "bolsos": 1.0
-    },
-    "bolsos de malla o": {
+    "bolsos": {
         "de": 1.0
     },
-    "de malla o forrar": {
-        "malla": 1.0
-    },
-    "malla o forrar biombos": {
-        "o": 1.0
-    },
-    "o forrar biombos pero": {
-        "forrar": 1.0
-    },
-    "forrar biombos pero disto": {
+    "forrar": {
         "biombos": 1.0
     },
-    "biombos pero disto mucho": {
-        "pero": 1.0
+    "pero": {
+        "disto": 0.3333333333333333,
+        "en": 0.3333333333333333,
+        "no": 0.3333333333333333
     },
-    "pero disto mucho de": {
-        "disto": 1.0
-    },
-    "disto mucho de estar": {
+    "disto": {
         "mucho": 1.0
     },
-    "mucho de estar de": {
+    "estar": {
         "de": 1.0
     },
-    "de estar de acuerdo": {
-        "estar": 1.0
-    },
-    "estar de acuerdo contigo": {
-        "de": 1.0
-    },
-    "de acuerdo contigo en": {
-        "acuerdo": 1.0
-    },
-    "acuerdo contigo en lo": {
-        "contigo": 1.0
-    },
-    "contigo en lo que": {
+    "contigo": {
         "en": 1.0
     },
-    "en lo que se": {
-        "lo": 1.0
-    },
-    "lo que se refiere": {
-        "que": 1.0
-    },
-    "que se refiere a": {
-        "se": 1.0
-    },
-    "se refiere a tu": {
-        "refiere": 1.0
-    },
-    "refiere a tu estimación": {
+    "refiere": {
         "a": 1.0
     },
-    "a tu estimación de": {
-        "tu": 1.0
-    },
-    "tu estimación de las": {
-        "estimación": 1.0
-    },
-    "estimación de las damas": {
+    "estimación": {
         "de": 1.0
     },
-    "de las damas en": {
-        "las": 1.0
+    "damas": {
+        "en": 0.5,
+        "a": 0.5
     },
-    "las damas en general": {
-        "damas": 1.0
-    },
-    "damas en general de": {
-        "en": 1.0
-    },
-    "en general de todas": {
-        "general": 1.0
-    },
-    "general de todas las": {
+    "general": {
         "de": 1.0
     },
-    "de todas las que": {
-        "todas": 1.0
-    },
-    "todas las que he": {
-        "las": 1.0
-    },
-    "las que he conocido": {
-        "que": 1.0
-    },
-    "que he conocido no": {
-        "he": 1.0
-    },
-    "he conocido no puedo": {
-        "conocido": 1.0
-    },
-    "conocido no puedo alardear": {
-        "no": 1.0
-    },
-    "no puedo alardear de": {
-        "puedo": 1.0
-    },
-    "puedo alardear de conocer": {
+    "puedo": {
         "alardear": 1.0
     },
-    "alardear de conocer más": {
+    "alardear": {
         "de": 1.0
     },
-    "de conocer más que": {
-        "conocer": 1.0
-    },
-    "conocer más que a": {
+    "conocer": {
         "más": 1.0
     },
-    "más que a una": {
-        "que": 1.0
-    },
-    "que a una media": {
-        "a": 1.0
-    },
-    "a una media docena": {
-        "una": 1.0
-    },
-    "una media docena que": {
-        "media": 1.0
-    },
-    "media docena que sean": {
+    "media": {
         "docena": 1.0
     },
-    "docena que sean realmente": {
+    "docena": {
         "que": 1.0
     },
-    "que sean realmente perfectas": {
-        "sean": 1.0
-    },
-    "sean realmente perfectas ni": {
+    "sean": {
         "realmente": 1.0
     },
-    "realmente perfectas ni yo": {
-        "perfectas": 1.0
+    "realmente": {
+        "perfectas": 0.5,
+        "perfecto": 0.5
     },
-    "perfectas ni yo desde": {
-        "ni": 1.0
+    "ni": {
+        "yo": 0.5,
+        "oír": 0.5
     },
-    "ni yo desde luego": {
-        "yo": 1.0
+    "luego": {
+        "dijo": 0.5,
+        "exclamó": 0.5
     },
-    "yo desde luego dijo": {
-        "desde": 1.0
-    },
-    "desde luego dijo la": {
-        "luego": 1.0
-    },
-    "luego dijo la señorita": {
-        "dijo": 1.0
-    },
-    "dijo la señorita bingley": {
-        "la": 1.0
-    },
-    "la señorita bingley entonces": {
-        "señorita": 1.0
-    },
-    "señorita bingley entonces observó": {
-        "bingley": 1.0
-    },
-    "bingley entonces observó elizabeth": {
-        "entonces": 1.0
-    },
-    "entonces observó elizabeth debe": {
+    "entonces": {
         "observó": 1.0
     },
-    "observó elizabeth debe ser": {
+    "observó": {
         "elizabeth": 1.0
     },
-    "elizabeth debe ser que": {
-        "debe": 1.0
+    "debe": {
+        "ser": 0.25,
+        "tener": 0.25,
+        "poseer": 0.5
     },
-    "debe ser que su": {
-        "ser": 1.0
-    },
-    "ser que su concepto": {
-        "que": 1.0
-    },
-    "que su concepto de": {
-        "su": 1.0
-    },
-    "su concepto de la": {
-        "concepto": 1.0
-    },
-    "concepto de la mujer": {
+    "concepto": {
         "de": 1.0
     },
-    "de la mujer perfecta": {
-        "la": 1.0
+    "mujer": {
+        "perfecta": 0.3333333333333333,
+        "debe": 0.3333333333333333,
+        "así": 0.3333333333333333
     },
-    "la mujer perfecta es": {
-        "mujer": 1.0
+    "exigente": {
+        "sí": 0.5,
+        "oh": 0.5
     },
-    "mujer perfecta es muy": {
-        "perfecta": 1.0
-    },
-    "perfecta es muy exigente": {
-        "es": 1.0
-    },
-    "es muy exigente sí": {
-        "muy": 1.0
-    },
-    "muy exigente sí es": {
-        "exigente": 1.0
-    },
-    "exigente sí es muy": {
-        "sí": 1.0
-    },
-    "sí es muy exigente": {
-        "es": 1.0
-    },
-    "es muy exigente oh": {
-        "muy": 1.0
-    },
-    "muy exigente oh desde": {
-        "exigente": 1.0
-    },
-    "exigente oh desde luego": {
-        "oh": 1.0
-    },
-    "oh desde luego exclamó": {
-        "desde": 1.0
-    },
-    "desde luego exclamó su": {
-        "luego": 1.0
-    },
-    "luego exclamó su fiel": {
-        "exclamó": 1.0
-    },
-    "exclamó su fiel colaboradora": {
+    "exclamó": {
         "su": 1.0
     },
-    "su fiel colaboradora nadie": {
-        "fiel": 1.0
-    },
-    "fiel colaboradora nadie puede": {
+    "fiel": {
         "colaboradora": 1.0
     },
-    "colaboradora nadie puede estimarse": {
+    "colaboradora": {
         "nadie": 1.0
     },
-    "nadie puede estimarse realmente": {
-        "puede": 1.0
-    },
-    "puede estimarse realmente perfecto": {
+    "puede": {
         "estimarse": 1.0
     },
-    "estimarse realmente perfecto si": {
+    "estimarse": {
         "realmente": 1.0
     },
-    "realmente perfecto si no": {
-        "perfecto": 1.0
-    },
-    "perfecto si no sobrepasa": {
+    "perfecto": {
         "si": 1.0
     },
-    "si no sobrepasa en": {
-        "no": 1.0
-    },
-    "no sobrepasa en mucho": {
-        "sobrepasa": 1.0
-    },
-    "sobrepasa en mucho lo": {
+    "sobrepasa": {
         "en": 1.0
     },
-    "en mucho lo que": {
-        "mucho": 1.0
-    },
-    "mucho lo que se": {
-        "lo": 1.0
-    },
-    "lo que se encuentra": {
-        "que": 1.0
-    },
-    "que se encuentra normalmente": {
-        "se": 1.0
-    },
-    "se encuentra normalmente una": {
-        "encuentra": 1.0
-    },
-    "encuentra normalmente una mujer": {
+    "encuentra": {
         "normalmente": 1.0
     },
-    "normalmente una mujer debe": {
+    "normalmente": {
         "una": 1.0
     },
-    "una mujer debe tener": {
-        "mujer": 1.0
-    },
-    "mujer debe tener un": {
-        "debe": 1.0
-    },
-    "debe tener un conocimiento": {
-        "tener": 1.0
-    },
-    "tener un conocimiento profundo": {
+    "tener": {
         "un": 1.0
     },
-    "un conocimiento profundo de": {
-        "conocimiento": 1.0
-    },
-    "conocimiento profundo de música": {
+    "conocimiento": {
         "profundo": 1.0
     },
-    "profundo de música canto": {
+    "profundo": {
         "de": 1.0
     },
-    "de música canto dibujo": {
-        "música": 1.0
-    },
-    "música canto dibujo baile": {
+    "música": {
         "canto": 1.0
     },
-    "canto dibujo baile y": {
+    "canto": {
         "dibujo": 1.0
     },
-    "dibujo baile y lenguas": {
+    "dibujo": {
         "baile": 1.0
     },
-    "baile y lenguas modernas": {
+    "baile": {
         "y": 1.0
     },
-    "y lenguas modernas y": {
-        "lenguas": 1.0
-    },
-    "lenguas modernas y además": {
+    "lenguas": {
         "modernas": 1.0
     },
-    "modernas y además de": {
+    "modernas": {
         "y": 1.0
     },
-    "y además de todo": {
-        "además": 1.0
-    },
-    "además de todo esto": {
+    "además": {
         "de": 1.0
     },
-    "de todo esto debe": {
-        "todo": 1.0
+    "esto": {
+        "debe": 0.25,
+        "agregó": 0.25,
+        "sea": 0.25,
+        "último": 0.25
     },
-    "todo esto debe poseer": {
-        "esto": 1.0
+    "poseer": {
+        "un": 0.5,
+        "todo": 0.5
     },
-    "esto debe poseer un": {
-        "debe": 1.0
+    "algo": {
+        "especial": 0.3333333333333333,
+        "más": 0.3333333333333333,
+        "que": 0.3333333333333333
     },
-    "debe poseer un algo": {
-        "poseer": 1.0
-    },
-    "poseer un algo especial": {
-        "un": 1.0
-    },
-    "un algo especial en": {
-        "algo": 1.0
-    },
-    "algo especial en su": {
-        "especial": 1.0
-    },
-    "especial en su aire": {
+    "especial": {
         "en": 1.0
     },
-    "en su aire y": {
-        "su": 1.0
-    },
-    "su aire y manera": {
-        "aire": 1.0
-    },
-    "aire y manera de": {
+    "aire": {
         "y": 1.0
     },
-    "y manera de andar": {
-        "manera": 1.0
+    "manera": {
+        "de": 0.5,
+        "que": 0.5
     },
-    "manera de andar en": {
-        "de": 1.0
-    },
-    "de andar en el": {
-        "andar": 1.0
-    },
-    "andar en el tono": {
+    "andar": {
         "en": 1.0
     },
-    "en el tono de": {
-        "el": 1.0
-    },
-    "el tono de su": {
-        "tono": 1.0
-    },
-    "tono de su voz": {
+    "tono": {
         "de": 1.0
     },
-    "de su voz en": {
-        "su": 1.0
-    },
-    "su voz en su": {
-        "voz": 1.0
-    },
-    "voz en su trato": {
+    "voz": {
         "en": 1.0
     },
-    "en su trato y": {
-        "su": 1.0
-    },
-    "su trato y modo": {
-        "trato": 1.0
-    },
-    "trato y modo de": {
+    "trato": {
         "y": 1.0
     },
-    "y modo de expresarse;": {
-        "modo": 1.0
-    },
-    "modo de expresarse; pues": {
-        "de": 1.0
-    },
-    "de expresarse; pues de": {
-        "expresarse;": 1.0
-    },
-    "expresarse; pues de lo": {
+    "expresarse;": {
         "pues": 1.0
     },
-    "pues de lo contrario": {
-        "de": 1.0
-    },
-    "de lo contrario no": {
-        "lo": 1.0
-    },
-    "lo contrario no merecería": {
-        "contrario": 1.0
-    },
-    "contrario no merecería el": {
+    "contrario": {
         "no": 1.0
     },
-    "no merecería el calificativo": {
-        "merecería": 1.0
-    },
-    "merecería el calificativo más": {
+    "merecería": {
         "el": 1.0
     },
-    "el calificativo más que": {
-        "calificativo": 1.0
-    },
-    "calificativo más que a": {
+    "calificativo": {
         "más": 1.0
     },
-    "más que a medias": {
-        "que": 1.0
-    },
-    "que a medias debe": {
-        "a": 1.0
-    },
-    "a medias debe poseer": {
-        "medias": 1.0
-    },
-    "medias debe poseer todo": {
+    "medias": {
         "debe": 1.0
     },
-    "debe poseer todo esto": {
-        "poseer": 1.0
-    },
-    "poseer todo esto agregó": {
-        "todo": 1.0
-    },
-    "todo esto agregó darcy": {
-        "esto": 1.0
-    },
-    "esto agregó darcy y": {
-        "agregó": 1.0
-    },
-    "agregó darcy y a": {
+    "agregó": {
         "darcy": 1.0
     },
-    "darcy y a ello": {
-        "y": 1.0
-    },
-    "y a ello hay": {
-        "a": 1.0
-    },
-    "a ello hay que": {
-        "ello": 1.0
-    },
-    "ello hay que añadir": {
+    "ello": {
         "hay": 1.0
     },
-    "hay que añadir algo": {
-        "que": 1.0
+    "hay": {
+        "que": 0.5,
+        "vileza": 0.5
     },
-    "que añadir algo más": {
-        "añadir": 1.0
-    },
-    "añadir algo más sustancial": {
+    "añadir": {
         "algo": 1.0
     },
-    "algo más sustancial en": {
-        "más": 1.0
-    },
-    "más sustancial en el": {
-        "sustancial": 1.0
-    },
-    "sustancial en el desarrollo": {
+    "sustancial": {
         "en": 1.0
     },
-    "en el desarrollo de": {
-        "el": 1.0
-    },
-    "el desarrollo de su": {
-        "desarrollo": 1.0
-    },
-    "desarrollo de su inteligencia": {
+    "desarrollo": {
         "de": 1.0
     },
-    "de su inteligencia por": {
-        "su": 1.0
-    },
-    "su inteligencia por medio": {
-        "inteligencia": 1.0
-    },
-    "inteligencia por medio de": {
+    "inteligencia": {
         "por": 1.0
     },
-    "por medio de abundantes": {
-        "medio": 1.0
-    },
-    "medio de abundantes lecturas": {
+    "medio": {
         "de": 1.0
     },
-    "de abundantes lecturas no": {
-        "abundantes": 1.0
-    },
-    "abundantes lecturas no me": {
+    "abundantes": {
         "lecturas": 1.0
     },
-    "lecturas no me sorprende": {
+    "lecturas": {
         "no": 1.0
     },
-    "no me sorprende ahora": {
-        "me": 1.0
-    },
-    "me sorprende ahora que": {
-        "sorprende": 1.0
-    },
-    "sorprende ahora que conozca": {
+    "sorprende": {
         "ahora": 1.0
     },
-    "ahora que conozca sólo": {
-        "que": 1.0
+    "conozca": {
+        "sólo": 0.5,
+        "a": 0.5
     },
-    "que conozca sólo a": {
-        "conozca": 1.0
+    "sólo": {
+        "a": 0.5,
+        "para": 0.5
     },
-    "conozca sólo a seis": {
-        "sólo": 1.0
-    },
-    "sólo a seis mujeres": {
-        "a": 1.0
-    },
-    "a seis mujeres perfectas": {
-        "seis": 1.0
-    },
-    "seis mujeres perfectas lo": {
+    "seis": {
         "mujeres": 1.0
     },
-    "mujeres perfectas lo que": {
-        "perfectas": 1.0
-    },
-    "perfectas lo que me": {
-        "lo": 1.0
-    },
-    "lo que me extraña": {
-        "que": 1.0
-    },
-    "que me extraña es": {
-        "me": 1.0
-    },
-    "me extraña es que": {
-        "extraña": 1.0
-    },
-    "extraña es que conozca": {
+    "extraña": {
         "es": 1.0
     },
-    "es que conozca a": {
-        "que": 1.0
-    },
-    "que conozca a alguna": {
-        "conozca": 1.0
-    },
-    "conozca a alguna tan": {
-        "a": 1.0
-    },
-    "a alguna tan severa": {
-        "alguna": 1.0
-    },
-    "alguna tan severa es": {
+    "alguna": {
         "tan": 1.0
     },
-    "tan severa es usted": {
-        "severa": 1.0
-    },
-    "severa es usted con": {
+    "severa": {
         "es": 1.0
     },
-    "es usted con su": {
-        "usted": 1.0
+    "usted": {
+        "con": 0.5,
+        "describe": 0.5
     },
-    "usted con su propio": {
-        "con": 1.0
-    },
-    "con su propio sexo": {
-        "su": 1.0
-    },
-    "su propio sexo que": {
-        "propio": 1.0
-    },
-    "propio sexo que duda": {
+    "propio": {
         "sexo": 1.0
     },
-    "sexo que duda de": {
-        "que": 1.0
+    "sexo": {
+        "que": 0.5,
+        "opuesto": 0.5
     },
-    "que duda de que": {
-        "duda": 1.0
+    "duda": {
+        "de": 0.5,
+        "afirmando": 0.5
     },
-    "duda de que esto": {
-        "de": 1.0
-    },
-    "de que esto sea": {
-        "que": 1.0
-    },
-    "que esto sea posible": {
-        "esto": 1.0
-    },
-    "esto sea posible yo": {
-        "sea": 1.0
-    },
-    "sea posible yo nunca": {
+    "sea": {
         "posible": 1.0
     },
-    "posible yo nunca he": {
-        "yo": 1.0
+    "posible": {
+        "yo": 0.5,
+        "a": 0.5
     },
-    "yo nunca he visto": {
-        "nunca": 1.0
+    "visto": {
+        "una": 0.5,
+        "tanta": 0.5
     },
-    "nunca he visto una": {
-        "he": 1.0
-    },
-    "he visto una mujer": {
-        "visto": 1.0
-    },
-    "visto una mujer así": {
-        "una": 1.0
-    },
-    "una mujer así nunca": {
-        "mujer": 1.0
-    },
-    "mujer así nunca he": {
-        "así": 1.0
-    },
-    "así nunca he visto": {
-        "nunca": 1.0
-    },
-    "nunca he visto tanta": {
-        "he": 1.0
-    },
-    "he visto tanta capacidad": {
-        "visto": 1.0
-    },
-    "visto tanta capacidad tanto": {
-        "tanta": 1.0
-    },
-    "tanta capacidad tanto gusto": {
-        "capacidad": 1.0
-    },
-    "capacidad tanto gusto tanta": {
+    "capacidad": {
         "tanto": 1.0
     },
-    "tanto gusto tanta aplicación": {
-        "gusto": 1.0
-    },
-    "gusto tanta aplicación y": {
+    "gusto": {
         "tanta": 1.0
     },
-    "tanta aplicación y tanta": {
-        "aplicación": 1.0
-    },
-    "aplicación y tanta elegancia": {
+    "aplicación": {
         "y": 1.0
     },
-    "y tanta elegancia juntas": {
-        "tanta": 1.0
-    },
-    "tanta elegancia juntas como": {
-        "elegancia": 1.0
-    },
-    "elegancia juntas como usted": {
+    "elegancia": {
         "juntas": 1.0
     },
-    "juntas como usted describe": {
+    "juntas": {
         "como": 1.0
     },
-    "como usted describe la": {
-        "usted": 1.0
-    },
-    "usted describe la señora": {
-        "describe": 1.0
-    },
-    "describe la señora hurst": {
+    "describe": {
         "la": 1.0
     },
-    "la señora hurst y": {
-        "señora": 1.0
+    "hurst": {
+        "y": 0.5,
+        "las": 0.5
     },
-    "señora hurst y la": {
-        "hurst": 1.0
-    },
-    "hurst y la señorita": {
-        "y": 1.0
-    },
-    "y la señorita bingley": {
-        "la": 1.0
-    },
-    "la señorita bingley protestaron": {
-        "señorita": 1.0
-    },
-    "señorita bingley protestaron contra": {
-        "bingley": 1.0
-    },
-    "bingley protestaron contra la": {
-        "protestaron": 1.0
-    },
-    "protestaron contra la injusticia": {
+    "protestaron": {
         "contra": 1.0
     },
-    "contra la injusticia de": {
+    "contra": {
         "la": 1.0
     },
-    "la injusticia de su": {
-        "injusticia": 1.0
-    },
-    "injusticia de su implícita": {
+    "injusticia": {
         "de": 1.0
     },
-    "de su implícita duda": {
-        "su": 1.0
-    },
-    "su implícita duda afirmando": {
-        "implícita": 1.0
-    },
-    "implícita duda afirmando que": {
+    "implícita": {
         "duda": 1.0
     },
-    "duda afirmando que conocían": {
-        "afirmando": 1.0
-    },
-    "afirmando que conocían muchas": {
+    "afirmando": {
         "que": 1.0
     },
-    "que conocían muchas mujeres": {
-        "conocían": 1.0
-    },
-    "conocían muchas mujeres que": {
+    "conocían": {
         "muchas": 1.0
     },
-    "muchas mujeres que respondían": {
+    "muchas": {
         "mujeres": 1.0
     },
-    "mujeres que respondían a": {
-        "que": 1.0
-    },
-    "que respondían a dicha": {
-        "respondían": 1.0
-    },
-    "respondían a dicha descripción": {
+    "respondían": {
         "a": 1.0
     },
-    "a dicha descripción cuando": {
-        "dicha": 1.0
-    },
-    "dicha descripción cuando el": {
+    "dicha": {
         "descripción": 1.0
     },
-    "descripción cuando el señor": {
+    "descripción": {
         "cuando": 1.0
     },
-    "cuando el señor hurst": {
-        "el": 1.0
-    },
-    "el señor hurst las": {
-        "señor": 1.0
-    },
-    "señor hurst las llamó": {
-        "hurst": 1.0
-    },
-    "hurst las llamó al": {
-        "las": 1.0
-    },
-    "las llamó al orden": {
-        "llamó": 1.0
-    },
-    "llamó al orden quejándose": {
+    "llamó": {
         "al": 1.0
     },
-    "al orden quejándose amargamente": {
-        "orden": 1.0
-    },
-    "orden quejándose amargamente de": {
+    "orden": {
         "quejándose": 1.0
     },
-    "quejándose amargamente de que": {
-        "amargamente": 1.0
-    },
-    "amargamente de que no": {
+    "amargamente": {
         "de": 1.0
     },
-    "de que no prestasen": {
-        "que": 1.0
-    },
-    "que no prestasen atención": {
-        "no": 1.0
-    },
-    "no prestasen atención al": {
-        "prestasen": 1.0
-    },
-    "prestasen atención al juego": {
+    "prestasen": {
         "atención": 1.0
     },
-    "atención al juego como": {
-        "al": 1.0
-    },
-    "al juego como la": {
-        "juego": 1.0
-    },
-    "juego como la conversación": {
-        "como": 1.0
-    },
-    "como la conversación parecía": {
-        "la": 1.0
-    },
-    "la conversación parecía haber": {
-        "conversación": 1.0
-    },
-    "conversación parecía haber terminado": {
+    "conversación": {
         "parecía": 1.0
     },
-    "parecía haber terminado elizabeth": {
+    "parecía": {
         "haber": 1.0
     },
-    "haber terminado elizabeth no": {
+    "haber": {
         "terminado": 1.0
     },
-    "terminado elizabeth no tardó": {
+    "terminado": {
         "elizabeth": 1.0
     },
-    "elizabeth no tardó en": {
-        "no": 1.0
-    },
-    "no tardó en abandonar": {
-        "tardó": 1.0
-    },
-    "tardó en abandonar el": {
-        "en": 1.0
-    },
-    "en abandonar el salón": {
-        "abandonar": 1.0
-    },
-    "abandonar el salón elizabeth": {
+    "abandonar": {
         "el": 1.0
     },
-    "el salón elizabeth dijo": {
-        "salón": 1.0
-    },
-    "salón elizabeth dijo la": {
+    "salón": {
         "elizabeth": 1.0
     },
-    "elizabeth dijo la señorita": {
-        "dijo": 1.0
-    },
-    "la señorita bingley cuando": {
-        "señorita": 1.0
-    },
-    "señorita bingley cuando la": {
-        "bingley": 1.0
-    },
-    "bingley cuando la puerta": {
-        "cuando": 1.0
-    },
-    "cuando la puerta se": {
-        "la": 1.0
-    },
-    "la puerta se hubo": {
-        "puerta": 1.0
-    },
-    "puerta se hubo cerrado": {
+    "puerta": {
         "se": 1.0
     },
-    "se hubo cerrado tras": {
-        "hubo": 1.0
-    },
-    "hubo cerrado tras ella": {
+    "hubo": {
         "cerrado": 1.0
     },
-    "cerrado tras ella es": {
+    "cerrado": {
         "tras": 1.0
     },
-    "tras ella es una": {
+    "tras": {
         "ella": 1.0
     },
-    "ella es una de": {
+    "ella": {
         "es": 1.0
     },
-    "es una de esas": {
-        "una": 1.0
-    },
-    "una de esas muchachas": {
-        "de": 1.0
-    },
-    "de esas muchachas que": {
-        "esas": 1.0
-    },
-    "esas muchachas que tratan": {
-        "muchachas": 1.0
-    },
-    "muchachas que tratan de": {
+    "muchachas": {
         "que": 1.0
     },
-    "que tratan de hacerse": {
-        "tratan": 1.0
-    },
-    "tratan de hacerse agradables": {
+    "tratan": {
         "de": 1.0
     },
-    "de hacerse agradables al": {
-        "hacerse": 1.0
-    },
-    "hacerse agradables al sexo": {
+    "hacerse": {
         "agradables": 1.0
     },
-    "agradables al sexo opuesto": {
+    "agradables": {
         "al": 1.0
     },
-    "al sexo opuesto desacreditando": {
-        "sexo": 1.0
-    },
-    "sexo opuesto desacreditando al": {
-        "opuesto": 1.0
-    },
-    "opuesto desacreditando al suyo": {
+    "opuesto": {
         "desacreditando": 1.0
     },
-    "desacreditando al suyo propio;": {
+    "desacreditando": {
         "al": 1.0
     },
-    "al suyo propio; no": {
-        "suyo": 1.0
-    },
-    "suyo propio; no diré": {
+    "suyo": {
         "propio;": 1.0
     },
-    "propio; no diré que": {
+    "propio;": {
         "no": 1.0
     },
-    "no diré que no": {
-        "diré": 1.0
-    },
-    "diré que no dé": {
+    "diré": {
         "que": 1.0
     },
-    "que no dé resultado": {
-        "no": 1.0
-    },
-    "no dé resultado con": {
-        "dé": 1.0
-    },
-    "dé resultado con muchos": {
+    "dé": {
         "resultado": 1.0
     },
-    "resultado con muchos hombres": {
+    "resultado": {
         "con": 1.0
     },
-    "con muchos hombres pero": {
-        "muchos": 1.0
-    },
-    "muchos hombres pero en": {
+    "muchos": {
         "hombres": 1.0
     },
-    "hombres pero en mi": {
-        "pero": 1.0
+    "hombres": {
+        "pero": 0.5,
+        "todo": 0.5
     },
-    "pero en mi opinión": {
-        "en": 1.0
-    },
-    "en mi opinión es": {
-        "mi": 1.0
-    },
-    "mi opinión es un": {
-        "opinión": 1.0
-    },
-    "opinión es un truco": {
+    "opinión": {
         "es": 1.0
     },
-    "es un truco vil": {
-        "un": 1.0
-    },
-    "un truco vil una": {
-        "truco": 1.0
-    },
-    "truco vil una mala": {
+    "truco": {
         "vil": 1.0
     },
-    "vil una mala maña": {
+    "vil": {
         "una": 1.0
     },
-    "una mala maña indudablemente": {
-        "mala": 1.0
-    },
-    "mala maña indudablemente respondió": {
+    "mala": {
         "maña": 1.0
     },
-    "maña indudablemente respondió darcy": {
+    "maña": {
         "indudablemente": 1.0
     },
-    "indudablemente respondió darcy a": {
+    "indudablemente": {
         "respondió": 1.0
     },
-    "respondió darcy a quien": {
-        "darcy": 1.0
-    },
-    "darcy a quien iba": {
-        "a": 1.0
-    },
-    "a quien iba dirigida": {
-        "quien": 1.0
-    },
-    "quien iba dirigida principalmente": {
+    "quien": {
         "iba": 1.0
     },
-    "iba dirigida principalmente esta": {
+    "iba": {
         "dirigida": 1.0
     },
-    "dirigida principalmente esta observación": {
+    "dirigida": {
         "principalmente": 1.0
     },
-    "principalmente esta observación hay": {
+    "principalmente": {
         "esta": 1.0
     },
-    "esta observación hay vileza": {
-        "observación": 1.0
-    },
-    "observación hay vileza en": {
+    "observación": {
         "hay": 1.0
     },
-    "hay vileza en todas": {
-        "vileza": 1.0
-    },
-    "vileza en todas las": {
+    "vileza": {
         "en": 1.0
     },
-    "en todas las artes": {
-        "todas": 1.0
-    },
-    "todas las artes que": {
-        "las": 1.0
-    },
-    "las artes que las": {
-        "artes": 1.0
-    },
-    "artes que las damas": {
+    "artes": {
         "que": 1.0
     },
-    "que las damas a": {
-        "las": 1.0
-    },
-    "las damas a veces": {
-        "damas": 1.0
-    },
-    "damas a veces se": {
-        "a": 1.0
-    },
-    "a veces se rebajan": {
-        "veces": 1.0
-    },
-    "veces se rebajan a": {
+    "veces": {
         "se": 1.0
     },
-    "se rebajan a emplear": {
-        "rebajan": 1.0
-    },
-    "rebajan a emplear para": {
+    "rebajan": {
         "a": 1.0
     },
-    "a emplear para cautivar": {
-        "emplear": 1.0
-    },
-    "emplear para cautivar a": {
+    "emplear": {
         "para": 1.0
     },
-    "para cautivar a los": {
-        "cautivar": 1.0
-    },
-    "cautivar a los hombres": {
+    "cautivar": {
         "a": 1.0
     },
-    "a los hombres todo": {
-        "los": 1.0
-    },
-    "los hombres todo lo": {
-        "hombres": 1.0
-    },
-    "hombres todo lo que": {
-        "todo": 1.0
-    },
-    "todo lo que tenga": {
-        "lo": 1.0
-    },
-    "lo que tenga algo": {
-        "que": 1.0
-    },
-    "que tenga algo que": {
-        "tenga": 1.0
-    },
-    "tenga algo que ver": {
+    "tenga": {
         "algo": 1.0
     },
-    "algo que ver con": {
-        "que": 1.0
-    },
-    "que ver con la": {
-        "ver": 1.0
-    },
-    "ver con la astucia": {
-        "con": 1.0
-    },
-    "con la astucia es": {
-        "la": 1.0
-    },
-    "la astucia es despreciable": {
-        "astucia": 1.0
-    },
-    "astucia es despreciable la": {
+    "astucia": {
         "es": 1.0
     },
-    "es despreciable la señorita": {
-        "despreciable": 1.0
-    },
-    "despreciable la señorita bingley": {
+    "despreciable": {
         "la": 1.0
     },
-    "la señorita bingley no": {
-        "señorita": 1.0
+    "bastante": {
+        "satisfecha": 0.5,
+        "preocupado": 0.5
     },
-    "señorita bingley no quedó": {
-        "bingley": 1.0
-    },
-    "bingley no quedó lo": {
-        "no": 1.0
-    },
-    "no quedó lo bastante": {
-        "quedó": 1.0
-    },
-    "quedó lo bastante satisfecha": {
-        "lo": 1.0
-    },
-    "lo bastante satisfecha con": {
-        "bastante": 1.0
-    },
-    "bastante satisfecha con la": {
-        "satisfecha": 1.0
-    },
-    "satisfecha con la respuesta": {
+    "satisfecha": {
         "con": 1.0
     },
-    "con la respuesta como": {
-        "la": 1.0
-    },
-    "la respuesta como para": {
-        "respuesta": 1.0
-    },
-    "respuesta como para continuar": {
+    "respuesta": {
         "como": 1.0
     },
-    "como para continuar con": {
-        "para": 1.0
-    },
-    "para continuar con el": {
-        "continuar": 1.0
-    },
-    "continuar con el tema": {
+    "continuar": {
         "con": 1.0
     },
-    "con el tema elizabeth": {
-        "el": 1.0
-    },
-    "el tema elizabeth se": {
-        "tema": 1.0
-    },
-    "tema elizabeth se reunió": {
+    "tema": {
         "elizabeth": 1.0
     },
-    "elizabeth se reunió de": {
-        "se": 1.0
-    },
-    "se reunió de nuevo": {
-        "reunió": 1.0
-    },
-    "reunió de nuevo con": {
+    "reunió": {
         "de": 1.0
     },
-    "de nuevo con ellos": {
-        "nuevo": 1.0
-    },
-    "nuevo con ellos sólo": {
+    "nuevo": {
         "con": 1.0
     },
-    "con ellos sólo para": {
-        "ellos": 1.0
-    },
-    "ellos sólo para decirles": {
+    "ellos": {
         "sólo": 1.0
     },
-    "sólo para decirles que": {
-        "para": 1.0
-    },
-    "para decirles que su": {
-        "decirles": 1.0
-    },
-    "decirles que su hermana": {
+    "decirles": {
         "que": 1.0
     },
-    "que su hermana estaba": {
-        "su": 1.0
-    },
-    "su hermana estaba peor": {
-        "hermana": 1.0
-    },
-    "hermana estaba peor y": {
-        "estaba": 1.0
-    },
-    "estaba peor y que": {
-        "peor": 1.0
-    },
-    "peor y que no": {
+    "peor": {
         "y": 1.0
     },
-    "y que no podía": {
-        "que": 1.0
+    "podía": {
+        "dejarla": 0.5,
+        "encontrar": 0.5
     },
-    "que no podía dejarla": {
-        "no": 1.0
-    },
-    "no podía dejarla bingley": {
-        "podía": 1.0
-    },
-    "podía dejarla bingley decidió": {
-        "dejarla": 1.0
-    },
-    "dejarla bingley decidió enviar": {
+    "dejarla": {
         "bingley": 1.0
     },
-    "bingley decidió enviar a": {
-        "decidió": 1.0
-    },
-    "decidió enviar a alguien": {
+    "decidió": {
         "enviar": 1.0
     },
-    "enviar a alguien a": {
+    "enviar": {
         "a": 1.0
     },
-    "a alguien a buscar": {
-        "alguien": 1.0
-    },
-    "alguien a buscar inmediatamente": {
+    "alguien": {
         "a": 1.0
     },
-    "a buscar inmediatamente al": {
-        "buscar": 1.0
+    "buscar": {
+        "inmediatamente": 0.5,
+        "al": 0.5
     },
-    "buscar inmediatamente al doctor": {
-        "inmediatamente": 1.0
+    "doctor": {
+        "jones;": 0.5,
+        "jones": 0.5
     },
-    "inmediatamente al doctor jones;": {
-        "al": 1.0
-    },
-    "al doctor jones; mientras": {
-        "doctor": 1.0
-    },
-    "doctor jones; mientras que": {
-        "jones;": 1.0
-    },
-    "jones; mientras que sus": {
+    "jones;": {
         "mientras": 1.0
     },
-    "mientras que sus hermanas": {
-        "que": 1.0
+    "mientras": {
+        "que": 0.5,
+        "bingley": 0.5
     },
-    "que sus hermanas convencidas": {
-        "sus": 1.0
+    "hermanas": {
+        "convencidas": 0.5,
+        "estaban": 0.5
     },
-    "sus hermanas convencidas de": {
-        "hermanas": 1.0
-    },
-    "hermanas convencidas de que": {
-        "convencidas": 1.0
-    },
-    "convencidas de que la": {
+    "convencidas": {
         "de": 1.0
     },
-    "de que la asistencia": {
-        "que": 1.0
-    },
-    "que la asistencia médica": {
-        "la": 1.0
-    },
-    "la asistencia médica en": {
-        "asistencia": 1.0
-    },
-    "asistencia médica en el": {
+    "asistencia": {
         "médica": 1.0
     },
-    "médica en el campo": {
+    "médica": {
         "en": 1.0
     },
-    "en el campo no": {
-        "el": 1.0
-    },
-    "el campo no servía": {
-        "campo": 1.0
-    },
-    "campo no servía para": {
+    "campo": {
         "no": 1.0
     },
-    "no servía para nada": {
-        "servía": 1.0
-    },
-    "servía para nada propusieron": {
+    "servía": {
         "para": 1.0
     },
-    "para nada propusieron enviar": {
-        "nada": 1.0
-    },
-    "nada propusieron enviar a": {
+    "nada": {
         "propusieron": 1.0
     },
-    "propusieron enviar a alguien": {
+    "propusieron": {
         "enviar": 1.0
     },
-    "a alguien a la": {
-        "alguien": 1.0
-    },
-    "alguien a la capital": {
-        "a": 1.0
-    },
-    "a la capital para": {
-        "la": 1.0
-    },
-    "la capital para que": {
-        "capital": 1.0
-    },
-    "capital para que trajese": {
+    "capital": {
         "para": 1.0
     },
-    "para que trajese a": {
-        "que": 1.0
-    },
-    "que trajese a uno": {
-        "trajese": 1.0
-    },
-    "trajese a uno de": {
+    "trajese": {
         "a": 1.0
     },
-    "a uno de los": {
-        "uno": 1.0
-    },
-    "uno de los más": {
+    "uno": {
         "de": 1.0
     },
-    "de los más eminentes": {
-        "los": 1.0
-    },
-    "los más eminentes doctores": {
-        "más": 1.0
-    },
-    "más eminentes doctores elizabeth": {
-        "eminentes": 1.0
-    },
-    "eminentes doctores elizabeth no": {
+    "eminentes": {
         "doctores": 1.0
     },
-    "doctores elizabeth no quiso": {
+    "doctores": {
         "elizabeth": 1.0
     },
-    "elizabeth no quiso ni": {
-        "no": 1.0
-    },
-    "no quiso ni oír": {
-        "quiso": 1.0
-    },
-    "quiso ni oír hablar": {
+    "quiso": {
         "ni": 1.0
     },
-    "ni oír hablar de": {
-        "oír": 1.0
-    },
-    "oír hablar de esto": {
+    "oír": {
         "hablar": 1.0
     },
-    "hablar de esto último": {
-        "de": 1.0
-    },
-    "de esto último pero": {
-        "esto": 1.0
-    },
-    "esto último pero no": {
-        "último": 1.0
-    },
-    "último pero no se": {
+    "último": {
         "pero": 1.0
     },
-    "pero no se oponía": {
-        "no": 1.0
-    },
-    "no se oponía a": {
-        "se": 1.0
-    },
-    "se oponía a que": {
-        "oponía": 1.0
-    },
-    "oponía a que se": {
+    "oponía": {
         "a": 1.0
     },
-    "a que se hiciese": {
-        "que": 1.0
-    },
-    "que se hiciese lo": {
-        "se": 1.0
-    },
-    "se hiciese lo que": {
-        "hiciese": 1.0
-    },
-    "hiciese lo que decía": {
+    "hiciese": {
         "lo": 1.0
     },
-    "lo que decía el": {
-        "que": 1.0
-    },
-    "que decía el hermano": {
-        "decía": 1.0
-    },
-    "decía el hermano de": {
+    "decía": {
         "el": 1.0
     },
-    "el hermano de manera": {
-        "hermano": 1.0
-    },
-    "hermano de manera que": {
+    "hermano": {
         "de": 1.0
     },
-    "de manera que se": {
-        "manera": 1.0
-    },
-    "manera que se acordó": {
-        "que": 1.0
-    },
-    "que se acordó mandar": {
-        "se": 1.0
-    },
-    "se acordó mandar a": {
-        "acordó": 1.0
-    },
-    "acordó mandar a buscar": {
+    "acordó": {
         "mandar": 1.0
     },
-    "mandar a buscar al": {
+    "mandar": {
         "a": 1.0
     },
-    "a buscar al doctor": {
-        "buscar": 1.0
-    },
-    "buscar al doctor jones": {
-        "al": 1.0
-    },
-    "al doctor jones temprano": {
-        "doctor": 1.0
-    },
-    "doctor jones temprano a": {
-        "jones": 1.0
-    },
-    "jones temprano a la": {
+    "jones": {
         "temprano": 1.0
     },
-    "temprano a la mañana": {
+    "temprano": {
         "a": 1.0
     },
-    "a la mañana siguiente": {
-        "la": 1.0
-    },
-    "la mañana siguiente si": {
-        "mañana": 1.0
-    },
-    "mañana siguiente si jane": {
+    "mañana": {
         "siguiente": 1.0
     },
-    "siguiente si jane no": {
+    "siguiente": {
         "si": 1.0
     },
-    "si jane no se": {
-        "jane": 1.0
-    },
-    "jane no se encontraba": {
+    "jane": {
         "no": 1.0
     },
-    "no se encontraba mejor": {
-        "se": 1.0
-    },
-    "se encontraba mejor bingley": {
-        "encontraba": 1.0
-    },
-    "encontraba mejor bingley estaba": {
+    "encontraba": {
         "mejor": 1.0
     },
-    "mejor bingley estaba bastante": {
-        "bingley": 1.0
+    "mejor": {
+        "bingley": 0.5,
+        "alivio": 0.5
     },
-    "bingley estaba bastante preocupado": {
-        "estaba": 1.0
-    },
-    "estaba bastante preocupado y": {
-        "bastante": 1.0
-    },
-    "bastante preocupado y sus": {
-        "preocupado": 1.0
-    },
-    "preocupado y sus hermanas": {
+    "preocupado": {
         "y": 1.0
     },
-    "y sus hermanas estaban": {
-        "sus": 1.0
-    },
-    "sus hermanas estaban muy": {
-        "hermanas": 1.0
-    },
-    "hermanas estaban muy afligidas": {
-        "estaban": 1.0
-    },
-    "estaban muy afligidas sin": {
+    "estaban": {
         "muy": 1.0
     },
-    "muy afligidas sin embargo": {
-        "afligidas": 1.0
-    },
-    "afligidas sin embargo más": {
+    "afligidas": {
         "sin": 1.0
     },
-    "sin embargo más tarde": {
-        "embargo": 1.0
-    },
-    "embargo más tarde se": {
-        "más": 1.0
-    },
-    "más tarde se consolaron": {
-        "tarde": 1.0
-    },
-    "tarde se consolaron cantando": {
+    "tarde": {
         "se": 1.0
     },
-    "se consolaron cantando unos": {
-        "consolaron": 1.0
-    },
-    "consolaron cantando unos dúos": {
+    "consolaron": {
         "cantando": 1.0
     },
-    "cantando unos dúos mientras": {
+    "cantando": {
         "unos": 1.0
     },
-    "unos dúos mientras bingley": {
+    "unos": {
         "dúos": 1.0
     },
-    "dúos mientras bingley no": {
+    "dúos": {
         "mientras": 1.0
     },
-    "mientras bingley no podía": {
-        "bingley": 1.0
-    },
-    "bingley no podía encontrar": {
-        "no": 1.0
-    },
-    "no podía encontrar mejor": {
-        "podía": 1.0
-    },
-    "podía encontrar mejor alivio": {
-        "encontrar": 1.0
-    },
-    "encontrar mejor alivio a": {
+    "encontrar": {
         "mejor": 1.0
     },
-    "mejor alivio a su": {
-        "alivio": 1.0
-    },
-    "alivio a su preocupación": {
+    "alivio": {
         "a": 1.0
     },
-    "a su preocupación que": {
-        "su": 1.0
-    },
-    "su preocupación que dar": {
-        "preocupación": 1.0
-    },
-    "preocupación que dar órdenes": {
+    "preocupación": {
         "que": 1.0
     },
-    "que dar órdenes a": {
-        "dar": 1.0
-    },
-    "dar órdenes a su": {
+    "dar": {
         "órdenes": 1.0
     },
-    "órdenes a su ama": {
+    "órdenes": {
         "a": 1.0
     },
-    "a su ama de": {
-        "su": 1.0
-    },
-    "su ama de llaves": {
-        "ama": 1.0
-    },
-    "ama de llaves para": {
+    "ama": {
         "de": 1.0
     },
-    "de llaves para que": {
-        "llaves": 1.0
-    },
-    "llaves para que se": {
+    "llaves": {
         "para": 1.0
     },
-    "para que se prestase": {
-        "que": 1.0
-    },
-    "que se prestase toda": {
-        "se": 1.0
-    },
-    "se prestase toda atención": {
-        "prestase": 1.0
-    },
-    "prestase toda atención posible": {
+    "prestase": {
         "toda": 1.0
     },
-    "toda atención posible a": {
+    "toda": {
         "atención": 1.0
     },
-    "atención posible a la": {
-        "posible": 1.0
-    },
-    "posible a la enferma": {
-        "a": 1.0
-    },
-    "a la enferma y": {
-        "la": 1.0
-    },
-    "la enferma y a": {
-        "enferma": 1.0
-    },
-    "enferma y a su": {
+    "enferma": {
         "y": 1.0
-    },
-    "y a su hermana": {
-        "a": 1.0
-    },
-    "a su hermana": {
-        "su": 1.0
-    },
-    "su hermana": {
-        "hermana": 1.0
     }
 }
